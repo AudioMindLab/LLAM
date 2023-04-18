@@ -10,7 +10,7 @@ title: |
   LLAM
 
 
-hero_media: welcome.jpg
+hero_media: contact.jpg #welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
