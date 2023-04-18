@@ -1,0 +1,95 @@
+# SITE SETUP
+# Appearance
+
+appearance:
+  theme_day: minimal
+  theme_night:
+  font: native
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: '实验室名字“Lab of Large Audio Model” 简称LLAM，中文名“音频大模型实验室”，致力于探索和发展音频和声音技术的前沿和未来，构建音频大模型。'
+    twitter: 'zhang_xu_long'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© 2023 - {year} '
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: True
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/AudioMindLab/AudioMindLab.github.io'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
