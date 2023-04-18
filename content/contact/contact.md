@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: zhangxulong@ieee.org
-  phone: '' #18501658276
+  phone: 18501658276
   address:
     street: Shangfeng Road 1288
     city: Shanghai
