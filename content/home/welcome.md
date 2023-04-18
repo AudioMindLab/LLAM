@@ -10,7 +10,7 @@ title: |
   LLAM
 
 
-hero_media: 主体.svg #welcome.jpg
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
