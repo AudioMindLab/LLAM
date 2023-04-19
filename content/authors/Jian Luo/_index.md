@@ -80,7 +80,7 @@ highlight_name: True
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former Researchers
+  - Former Researchers & Interns
 ---
 
 My research interests include TTS, Voice Conversion, Talking Face.

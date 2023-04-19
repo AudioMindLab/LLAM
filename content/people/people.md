@@ -18,11 +18,10 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Former Researchers
     - Grad Students
-    - Graduate
     - Interns
-    - Former Interns
+    - Graduate
+    - Former Researchers & Interns
 design:
   show_interests: false
   show_role: true
