@@ -1,5 +1,5 @@
 ---
-title: 'Subspace noise estimation and gamma distribution based microphone array post-filter design'
+title: 'Subspace Noise Estimation and Gamma Distribution-based Microphone Array Post-filter Design'
 authors:
   - Ning Cheng
   - Wenju Liu

@@ -1,5 +1,5 @@
 ---
-title: 'Microphone array speech enhancement based on a generalized post-filter and a novel perceptual filter'
+title: 'Microphone Array Speech Enhancement Based on a Generalized Post-Filter and a Novel Perceptual Filter'
 authors:
   - Ning Cheng
   - Wenju Liu

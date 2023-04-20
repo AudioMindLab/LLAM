@@ -1,5 +1,5 @@
 ---
-title: 'Masking property based microphone array post-filter design'
+title: 'Masking Property Based Microphone Array Post-Filter Design'
 authors:
   - Ning Cheng
   - Wenju Liu

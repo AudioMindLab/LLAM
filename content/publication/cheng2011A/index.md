@@ -1,5 +1,5 @@
 ---
-title: 'A flexible framework for HMM based noise robust speech recognition using generalized parametric space polynomial regression'
+title: 'A Flexible Framework for HMM based Noise Robust Speech Recognition using Generalized Parametric Space Polynomial Regression'
 authors:
   - Ning Cheng
   - XunYing Liu

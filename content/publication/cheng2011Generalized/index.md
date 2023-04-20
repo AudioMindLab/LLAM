@@ -1,5 +1,5 @@
 ---
-title: 'Generalized variable parameter HMMs for noise robust speech recognition'
+title: 'Generalized Variable Parameter HMMs for Noise Robust Speech Recognition'
 authors:
   - Ning Cheng
   - Xunying Liu
