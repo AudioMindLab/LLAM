@@ -20,6 +20,8 @@ design:
 
 <br>
 
+<h2>Large Audio Model</h2>
+<p>Research on Large Audio Models aims to advance the field of audio processing, generation, understanding, and multimodal processing, with the goal of enabling new and innovative applications in areas such as speech recognition, virtual assistants, music composition, audio synthesis, and more.</p>
 <h2>Text to Speech (TTS)</h2>
 <p>Research on high-quality audio, few-shot TTS, low resource TTS, and expressive TTS is mainly applied to scenarios such as speech interaction, information broadcasting, and text-to-speech reading, as well as in intelligent voice outbound calls and intelligent agents.</p>
 <h2>Voice Conversion</h2>
@@ -28,3 +30,5 @@ design:
 <p>Research that aims to create realistic, animated avatars that can speak and convey emotions in a natural and expressive manner. This technology has numerous applications, such as in virtual assistants, video games, and film production.</p>
 <h2>Music AI</h2>
 <p>Research topics related to music information retrieval, including song detection, singer identification, main melody extraction, and voice beautification.</p>
+<h2>Infant Acoustic</h2>
+<p>Research that investigates sound perception and production in infants, ranging from the prenatal stage up to around 24 months of age, involves a multidisciplinary approach, drawing from fields such as psychology, developmental sciences, linguistics, neuroscience, and audiology. </p>
