@@ -45,9 +45,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/zhang_xu_long
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=1XKLPoAAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=YL3mOU0AAAAJ
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/323/5542.html
