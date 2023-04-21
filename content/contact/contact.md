@@ -18,7 +18,7 @@ content:
   email: zhangxulong@ieee.org
   phone: '' #18501658276
   address:
-    street: Shangfeng Road 1288
+    street: Shangfeng Road #1288
     city: Shanghai
     region: Pudong
     postcode: '210210'
@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '31.2384'
     longitude: '121.6667'
-  directions: Enter Building 2 and take the stairs to B1 on Floor 5
+  # directions: Enter Building 2 and take the stairs to B1 on Floor 5
   
   #contact_links:
   #  - icon: comments
