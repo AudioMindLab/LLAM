@@ -6,7 +6,7 @@ title: Qiqi Wang
 superuser: true
 
 # Role/position
-role: 奥克兰大学
+role: University of Auckland
 
 # Organizations/Affiliations
 # organizations:

@@ -6,7 +6,7 @@ title: Yichen Shi
 superuser: true
 
 # Role/position
-role: 石家庄铁道大学
+role: Shijiazhuang Tiedao University
 
 # Organizations/Affiliations
 # organizations:

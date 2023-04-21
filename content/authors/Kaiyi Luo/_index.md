@@ -6,7 +6,7 @@ title: Kaiyi Luo
 superuser: true
 
 # Role/position
-role: 南京大学
+role: Nanjing University
 
 # Organizations/Affiliations
 # organizations:
