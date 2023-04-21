@@ -6,7 +6,7 @@ title: Ruizhe Zhang
 superuser: true
 
 # Role/position
-role: 上海大学
+role: Shanghai University
 
 # Organizations/Affiliations
 # organizations:
