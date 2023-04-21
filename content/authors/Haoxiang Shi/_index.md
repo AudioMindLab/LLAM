@@ -6,7 +6,7 @@ title: Haoxiang Shi
 superuser: true
 
 # Role/position
-role: 中国科学技术大学
+role: University of Science and Technology of China
 
 # Organizations/Affiliations
 # organizations:
