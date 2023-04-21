@@ -6,7 +6,7 @@ title: Yifu Sun
 superuser: true
 
 # Role/position
-role: 复旦大学
+role: Fudan University
 
 # Organizations/Affiliations
 # organizations:
