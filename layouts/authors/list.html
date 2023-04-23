@@ -18,37 +18,6 @@
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
-
-    {{ $query := where .Pages ".Type" "publication" }}
-    {{ $count := len $query }}
-    {{ if $count }}
-    <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_publications" | default "Publications" }}</h3>
-      <ol reversed>
-        {{ range $query }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }})
-        </li>
-        {{ end }}
-      </ol>
-    </div>
-    {{ end }}
-
-
-    {{ $query := where .Pages ".Type" "!=" "publication" }}
-    {{ $count := len $query }}
-    {{ if $count }}
-    <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_posts" | default "Posts" }}</h3>
-      <ul>
-        {{ range $query }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }}
   </div>
 </section>
 
@@ -57,14 +26,6 @@
 
 <section id="profile-page" class="pt-5">
   <div class="container">
-    {{/* Show the About widget if an account exists for this user. */}}
-    {{ if .File }}
-      {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
-      {{ $params := dict "root" $ "page" . "author" $username }}
-      {{ partial $widget $params }}
-    {{end}}
-
     {{ $query := where .Pages ".Type" "publication" }}
     {{ $count := len $query }}
     {{ if $count }}
