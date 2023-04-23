@@ -21,20 +21,20 @@ design:
   css_style:
   css_class:
 ---
-# Pre-Avata Demo
-## GTC 2022
+## Pre-Avata Demo
+### GTC 2022
 {{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
 
-## GTC 2023
+### GTC 2023
 {{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
 
 
-# 制作材料准备
+## 制作材料准备
 
 1. 个人正脸照片，分辨率大小256*256以上，越靓越好～
 2. 每一页ppt对应的讲稿文字，按照对应页进行文字分段编号，讲稿文字尽量口语化，不要包含公式x+y=z 请口语化表述。
 3. 在安静环境下进行指定句子录制30条语音，具体指定句子如下
-    '''
+   ```
     1|I believe that video gave you the basic idea of Pingan Group.
     2|Pingan was founded in nineteen eighty eight in Shekou, Shenzen as a small insurance company.
     3|Along with the fast development of China, Pingan has become one of the largest financial groups.
@@ -64,10 +64,7 @@ design:
     27|On the one hand, it can provide users.
     28|It can greatly reduce service costs for enterprises and provide more perfect services.
     29|In financial services, we hope the digital customer service staff are real people instead of digital people.
-    30|Especially for customers, real people can better understand the needs of customers.
-    '''
+    30|Especially for customers, real people can better understand the needs of customers.```
+## 制作联系方式
 
-
-# 制作联系方式
-
-[Email](mailto:zhangxulong@ieee.org)
+[Email to Xulong Zhang](mailto:zhangxulong@ieee.org)
