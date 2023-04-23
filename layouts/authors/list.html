@@ -18,14 +18,6 @@
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
-  </div>
-</section>
-
-
-
-
-<section id="pub-list-page" class="pt-5">
-  <div class="container">
     {{ $query := where .Pages ".Type" "publication" }}
     {{ $count := len $query }}
     {{ if $count }}
