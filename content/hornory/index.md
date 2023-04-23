@@ -21,10 +21,5 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   
 ---
