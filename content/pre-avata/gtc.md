@@ -13,7 +13,9 @@
 
 # Providing values for named id, title, and start parameters
 {{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
-
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $start := .Get "start" | default 0 }}
+{{ $title := .Get "title" | default "YouTube Video" }}
 
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
@@ -30,9 +32,7 @@ design:
 ---
 
 
-{{ $id := .Get "id" | default (.Get 0) }}
-{{ $start := .Get "start" | default 0 }}
-{{ $title := .Get "title" | default "YouTube Video" }}
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube-nocookie.com/embed/{{ $id }}?rel=0&start={{ $start }}"
