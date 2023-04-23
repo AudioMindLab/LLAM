@@ -23,7 +23,7 @@ social:
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Jianzong-Wang/66063851
 email: jzwang@188.com
-superuser: true
+superuser: false
 user_groups:
   - Principal Investigators
 highlight_name: true
