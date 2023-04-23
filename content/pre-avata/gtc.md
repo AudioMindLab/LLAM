@@ -5,17 +5,8 @@
 
 # widget: hero # See https://wowchemy.com/docs/page-builder/
 
-# Providing only the video ID as an unnamed parameter
-# {{< youtube-enhanced G44Lkj7XDsA >}}
 
-# Providing only the video ID as the named id parameter
-# {{< youtube-enhanced id="G44Lkj7XDsA" >}}
 
-# Providing values for named id, title, and start parameters
-{{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
-{{ $id := .Get "id" | default (.Get 0) }}
-{{ $start := .Get "start" | default 0 }}
-{{ $title := .Get "title" | default "YouTube Video" }}
 
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
@@ -32,14 +23,7 @@ design:
 ---
 
 
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ $id }}?rel=0&start={{ $start }}"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
-          allowfullscreen="" title="{{ $title }}"></iframe>
-</div>
-
+{{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
 
 <h2>GTC 2022</h2>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
