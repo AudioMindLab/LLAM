@@ -39,4 +39,4 @@ I am a Ph.D. in computer application technology from Fudan University. My resear
 
 Currently, I work as a senior algorithm researcher. My main project involves researching technology and applications related to text-to-speech and AI music.
 
-In addition, I am an off-campus industry mentor at the University of Science and Technology of China, co-supervising three graduate students. I am also a member of CCF (ID: N7554M) and IEEE (ID: 98053721).
+In addition, I am an off-campus industry mentor at the University of Science and Technology of China, co-supervising seven graduate students. I am also a member of CCF (ID: N7554M) and IEEE (ID: 98053721).

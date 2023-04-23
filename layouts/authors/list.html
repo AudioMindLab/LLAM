@@ -18,6 +18,7 @@
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
+
     {{ $query := where .Pages ".Type" "publication" }}
     {{ $count := len $query }}
     {{ if $count }}
