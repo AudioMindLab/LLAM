@@ -16,29 +16,21 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+      content: Take a look at workplaces in our lab...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 整体-反白.png
-    - title: Lunch & Learn ☕️
+        media: 工位.jpg
+    - title: Lab of Large Audio Model
       content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: 整体.png
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: 主体.png
+        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
