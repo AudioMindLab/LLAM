@@ -23,10 +23,10 @@ design:
 ---
 ## Pre-Avata Demo
 ### GTC 2022
-{{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
+{{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
 
 ### GTC 2023
-{{< youtube-enhanced id="G44Lkj7XDsA" title="Hugo Introduction" start="5" >}}
+{{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2023" start="0" >}}
 
 
 ## 制作材料准备
