@@ -11,7 +11,7 @@
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Demo of Pre-Avata on GTC
+Pre-Avatar production and GTC demo
 
 
 design:
@@ -21,7 +21,6 @@ design:
   css_style:
   css_class:
 ---
-## Pre-Avata Demo
 ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
 
