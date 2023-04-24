@@ -26,7 +26,7 @@ design:
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
 
 ### GTC 2023
-{{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2023" start="0" >}}
+{{< youtube-enhanced id="_4Wl5lOoM1s" title="GTC2023" start="0" >}}
 
 
 ## 制作材料准备

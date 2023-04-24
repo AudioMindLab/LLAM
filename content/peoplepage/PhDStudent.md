@@ -13,7 +13,7 @@ design:
     image_darken: 0
     
 ---
-[• First Ph.D Student](/../author/hua-xu/)<br/>
+[• First Ph.D Student](/../author/xulong-zhang/)<br/>
 [• Second Ph.D Student](/../author/junhui-deng/)<br/>
 [• Third Ph.D Student](/../author/xiaomin-sun/)<br/>
 [• Third Ph.D Student](/../author/xiaomin-sun/)<br/>
