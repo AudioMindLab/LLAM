@@ -24,8 +24,10 @@ abstract: Handling variable ambient noise is a challenging task for automatic sp
 tags:
   - Noise Robust Speech Recognition
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2011/cheng11_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2011/cheng11_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2011/cheng11_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

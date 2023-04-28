@@ -24,8 +24,10 @@ abstract: This paper presents a novel post-filter for noise reduction. A subspac
 tags:
   - Noise Reduction
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2010/cheng10_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2010/cheng10_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2010/cheng10_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''
