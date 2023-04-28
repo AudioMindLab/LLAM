@@ -28,7 +28,9 @@ abstract: Because of predicting all the target tokens in parallel, the non-autor
 tags:
   - ASR
 featured: true
-
+links:
+- name: "Arxiv"
+  url: 'https://arxiv.org/abs/2303.07687'
 url_pdf: ''
 url_code: ''
 url_poster: ''

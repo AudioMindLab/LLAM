@@ -26,8 +26,10 @@ abstract: Automatic music summary detection is a task that identifies the most r
 tags:
   - Music summary detection
 featured: true
-
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-13-8707-4_4'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-981-13-8707-4_4'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''
