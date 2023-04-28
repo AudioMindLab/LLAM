@@ -28,7 +28,9 @@ abstract:   In recent Text-to-Speech (TTS) systems, a neural vocoder often gener
 tags:
   - TTS
 featured: true
-
+links:
+- name: "Arxiv"
+  url: 'https://arxiv.org/abs/2304.11547'
 url_pdf: ''
 url_code: ''
 url_poster: ''
