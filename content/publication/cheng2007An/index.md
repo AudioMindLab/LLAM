@@ -26,8 +26,10 @@ abstract: This paper presents an effective single-channel speech enhancement alg
 tags:
   - Speech Enhancement
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/4368027'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/4368027'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

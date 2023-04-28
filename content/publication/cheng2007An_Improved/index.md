@@ -24,8 +24,10 @@ abstract: This paper presents a modification of conventional minimum mean square
 tags:
   - Speech Enhancement
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/4408401'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/4408401'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

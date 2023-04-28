@@ -25,8 +25,10 @@ abstract: The theoretic foundation of traditional microphone array postfilters i
 tags:
   - Speech Enhancement
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2008/cheng08_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2008/cheng08_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2008/cheng08_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

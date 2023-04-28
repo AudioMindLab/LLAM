@@ -28,7 +28,10 @@ tags:
   - Vocal Detection
 featured: true
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-13-8707-4_2'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-981-13-8707-4_2'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''
