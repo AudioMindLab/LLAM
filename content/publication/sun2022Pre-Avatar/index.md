@@ -28,9 +28,10 @@ abstract: Since the beginning of the COVID-19 pandemic, remote conferencing and 
 tags:
   - Talking Face
 featured: true
-link:
-  name: IEEE
-  url: https://ieeexplore.ieee.org/document/10097978
+
+links:
+- name: "IEEE"
+  url: "https://ieeexplore.ieee.org/document/10097978"
 url_pdf: ''
 url_code: ''
 url_poster: ''
