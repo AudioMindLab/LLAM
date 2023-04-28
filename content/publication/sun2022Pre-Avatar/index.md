@@ -7,7 +7,7 @@ authors:
   - Jianzong Wang
   - Ning Cheng
   - Jing Xiao 
-date: '2023-04-16T00:00:00Z' # TODO
+date: '2022-10-31T00:00:00Z' # TODO
 doi: ''
 
 
@@ -28,7 +28,9 @@ abstract: Since the beginning of the COVID-19 pandemic, remote conferencing and 
 tags:
   - Talking Face
 featured: true
-
+link:
+  name: IEEE
+  url: https://ieeexplore.ieee.org/document/10097978
 url_pdf: ''
 url_code: ''
 url_poster: ''
