@@ -27,7 +27,9 @@ abstract: Music genre classification has been widely studied in past few years f
 tags:
   - Music Genre Classification
 featured: true
-
+links:
+- name: "Arxiv"
+  url: 'https://arxiv.org/abs/2303.07667'
 url_pdf: ''
 url_code: ''
 url_poster: ''
