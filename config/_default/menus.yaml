@@ -10,13 +10,19 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Tags
-    url: tags
-    weight: 40
-    parent: Publications
+  
   - name: Publications
     url: publication
     weight: 50
+  - name: Tags
+    url: tags
+    weight: 30
+    parent: Publications
+  - name: All
+    url: publication
+    weight: 40
+    parent: Publications
+  
   - name: Pre-Avatar
     url: pre-avatar
     weight: 60
