@@ -28,8 +28,10 @@ abstract: Recovering the masked speech frames is widely applied in speech repres
 tags:
   - ASR
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/10076769
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/10076769'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

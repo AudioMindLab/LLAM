@@ -25,8 +25,10 @@ abstract: Most singer identification methods are processed in the frequency doma
 tags:
   - Singer Identification
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9892338
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9892338'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

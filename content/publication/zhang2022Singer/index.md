@@ -25,8 +25,10 @@ abstract: Metaverse is an interactive world that combines reality and virtuality
 tags:
   - Singer Identification
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9892657
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9892657'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

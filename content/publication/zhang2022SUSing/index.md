@@ -25,8 +25,10 @@ abstract: Singing voice synthesis is a generative task that involves multi-dimen
 tags:
   - Singing voice synthesis
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9892111
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9892111'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

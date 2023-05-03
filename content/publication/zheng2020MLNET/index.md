@@ -31,8 +31,10 @@ abstract: Voice activity detection (VAD) makes a distinction between speech and 
 tags:
   - Voice Activity Detection
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2020/zheng20d_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2020/zheng20d_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2020/zheng20d_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

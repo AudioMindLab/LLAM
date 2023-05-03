@@ -28,8 +28,10 @@ abstract: Talking face generation is synthesizing a lip synchronized talking fac
 tags:
   - Talking Face
 featured: true
-
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-25198-6_11
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-3-031-25198-6_11'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

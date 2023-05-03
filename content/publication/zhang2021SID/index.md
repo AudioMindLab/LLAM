@@ -26,8 +26,10 @@ abstract: In this paper, we study the issue of automatic singer identification (
 tags:
   - Singer Identification
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9413774
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9413774'
+url_pdf: ''
 url_code: 'https://gitlab.com/exp_codes/tut-attention'
 url_poster: ''
 url_slides: ''

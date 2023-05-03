@@ -27,8 +27,10 @@ abstract: In this paper, we proposed Adapitch, a multi-speaker TTS method that m
 tags:
   - TTS
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/10076635
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/10076635'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

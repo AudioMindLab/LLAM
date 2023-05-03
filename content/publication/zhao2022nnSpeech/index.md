@@ -26,8 +26,10 @@ abstract: Multi-speaker text-to-speech (TTS) using a few adaption data is a chal
 tags:
   - TTS
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9746875
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9746875'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -29,8 +29,10 @@ abstract: The recent emergence of joint CTC-Attention model shows significant im
 tags:
   - ASR
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/10076600
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/10076600'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

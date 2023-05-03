@@ -28,8 +28,10 @@ abstract: Singing voice detection or vocal detection is a classification task th
 tags:
   - Vocal Detection
 featured: true
-
-url_pdf: https://www.mdpi.com/2079-9292/9/9/1458
+links:
+- name: "Electronics"
+  url: 'https://www.mdpi.com/2079-9292/9/9/1458'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

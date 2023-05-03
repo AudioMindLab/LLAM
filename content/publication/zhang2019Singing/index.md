@@ -28,8 +28,10 @@ abstract: The problem of singing voice detection is to segment a song into vocal
 tags:
   - Vocal Detection
 featured: true
-
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-15-2756-2_4'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-981-15-2756-2_4'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

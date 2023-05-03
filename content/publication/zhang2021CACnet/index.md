@@ -29,8 +29,10 @@ abstract: End-to-end models have been widely used in Automatic Speech Recognitio
 tags:
   - ASR
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9533666'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9533666'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -27,8 +27,10 @@ abstract: Recent advances in pre-trained language models have improved the perfo
 tags:
   - Text Classification
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/10076631
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/10076631'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''
