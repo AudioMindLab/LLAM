@@ -28,8 +28,8 @@ tags:
   - TTS
 featured: true
 links:
-- name: ""
-  url: ''
+- name: 
+  url: 
 url_pdf: ''
 url_code: ''
 url_poster: ''
