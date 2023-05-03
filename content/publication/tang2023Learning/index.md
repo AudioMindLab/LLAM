@@ -25,7 +25,7 @@ abstract: Non-parallel many-to-many voice conversion is a kind of style transfer
 
 
 tags:
-  - TTS
+  - Voice Conversion
 featured: true
 # links:
 # - name: 
