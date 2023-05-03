@@ -23,7 +23,7 @@ publication_short: In *Science China Information Sciences*
 abstract: Handling variable, non-stationary ambient noise is a challenging task for automatic speech recognition (ASR) systems. To address this issue, multi-style, noise condition independent (CI) model training using speech data collected in diverse noise environments, or uncertainty decoding techniques can be used. An alternative approach is to explicitly approximate the continuous trajectory of Gaussian component mean and variance parameters against the varying noise level, for example, using variable parameter hidden Markov model (VPHMM). This paper investigates a more generalized form of variable parameter HMMs (GVP-HMM). In addition to Gaussian component means and variances, it can also provide a more compact trajectory modeling for tied linear transformations. An alternative noise condition dependent (CD) training algorithm is also proposed to handle the bias to training noise condition distribution. Consistent error rate gains were obtained over conventional VP-HMM mean and variance only trajectory modeling on a media vocabulary Mandarin Chinese in-car navigation command recognition task.
 
 tags:
-  - Noise Robust Speech Recognition
+  - Speech
 featured: true
 links:
 - name: "Springer"

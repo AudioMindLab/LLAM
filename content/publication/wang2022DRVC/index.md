@@ -26,8 +26,10 @@ abstract: Any-to-any voice conversion problem aims to convert voices for source 
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9747434
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9747434'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: 'https://sigport.org/sites/default/files/docs/DRVC-presentation.pdf'

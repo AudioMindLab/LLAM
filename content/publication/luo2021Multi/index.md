@@ -29,8 +29,10 @@ abstract: In this paper, we propose an end-to-end speech recognition network bas
 tags:
   - ASR
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9383532'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9383532'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -23,7 +23,7 @@ abstract: Metaverse has stretched the real world into unlimited space. There wil
 
 
 tags:
-  - Singer Identification
+  - MIR
 featured: true
 links:
 - name: "IEEE"

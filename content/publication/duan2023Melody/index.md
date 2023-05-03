@@ -27,7 +27,7 @@ abstract: Melody generation aims to learn the distribution of real melodies to g
 
 
 tags:
-  - Melody Generation
+  - MIR
 featured: true
 links:
 - name: "ACM"

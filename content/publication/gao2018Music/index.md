@@ -24,7 +24,7 @@ abstract: Automatic music summary detection is a task that identifies the most r
 
 
 tags:
-  - Music summary detection
+  - MIR
 featured: true
 links:
 - name: "Springer"

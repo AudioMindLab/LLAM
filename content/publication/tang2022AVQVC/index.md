@@ -26,8 +26,10 @@ abstract: Voice Conversion(VC) refers to changing the timbre of a speech while r
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9746369
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9746369'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

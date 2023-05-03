@@ -22,7 +22,7 @@ abstract: This paper presents a novel post-filter for noise reduction. A subspac
 
 
 tags:
-  - Noise Reduction
+  - Speech
 featured: true
 links:
 - name: "ISCA"

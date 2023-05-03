@@ -27,10 +27,12 @@ abstract: In this paper, we propose a real-time robot-based auxiliary system for
 
 
 tags:
-  - Cough Detection
+  - Speech
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2020/wei20_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2020/wei20_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2020/wei20_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

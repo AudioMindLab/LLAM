@@ -23,7 +23,7 @@ abstract: Most singer identification methods are processed in the frequency doma
 
 
 tags:
-  - Singer Identification
+  - MIR
 featured: true
 links:
 - name: "IEEE"

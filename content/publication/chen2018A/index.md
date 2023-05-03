@@ -25,7 +25,7 @@ abstract: In this paper, we present a practical three-step approach for singing 
 
 
 tags:
-  - Vocal Detection
+  - MIR
 featured: true
 
 links:

@@ -26,7 +26,7 @@ abstract: Singing voice detection or vocal detection is a classification task th
 
 
 tags:
-  - Vocal Detection
+  - MIR
 featured: true
 links:
 - name: "Electronics"

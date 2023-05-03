@@ -22,7 +22,7 @@ publication_short: In *IWSDA2007*
 abstract: This paper presents a modification of conventional minimum mean squared error (MMSE) spectral subtraction algorithm by introducing an adaptive averaging factor to accurately estimate the a priori SNR. Performance of the modified a priori SNR is evaluated by comparing with conventional spectral subtraction algorithm. Improved results are obtained in terms of speech quality measures for various types of noise when the time-frequency varying averaging factor, proposed in this paper, is adapted in the conventional subtraction rules.
 
 tags:
-  - Speech Enhancement
+  - Speech
 featured: true
 links:
 - name: "IEEE"

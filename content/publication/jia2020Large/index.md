@@ -26,7 +26,7 @@ abstract: End-to-end Spoken Language Understanding (SLU) models are made increas
 
 
 tags:
-  - Spoken Language Understanding
+  - Speech
 featured: true
 links:
 - name: "ISCA"

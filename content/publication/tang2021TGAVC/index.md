@@ -28,8 +28,10 @@ abstract: Non-parallel many-to-many voice conversion remains an interesting but 
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9688088
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9688088'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

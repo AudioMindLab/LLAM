@@ -25,7 +25,7 @@ abstract: This paper presents a novel method for singer identification from poly
 
 
 tags:
-  - Singer identification
+  - MIR
 featured: true
 links:
 - name: "Springer"

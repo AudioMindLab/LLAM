@@ -25,7 +25,7 @@ abstract: Metaverse expands the physical world to a new dimension, and the physi
 
 
 tags:
-  - Speech Effects
+  - Speech
 featured: true
 links:
 - name: "IEEE"

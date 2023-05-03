@@ -25,7 +25,7 @@ abstract: The theoretic foundation of traditional microphone array post-filters 
 
 
 tags:
-  - Microphone Arrays
+  - Speech
 featured: true
 links:
 - name: "IEEE"

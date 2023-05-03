@@ -25,7 +25,7 @@ abstract: Using deep learning methods to classify EEG signals can accurately ide
 
 
 tags:
-  - EEG
+  - Other
 featured: true
 links:
 - name: "Arxiv"

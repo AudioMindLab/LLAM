@@ -29,10 +29,12 @@ abstract: In this paper, we investigated a speech augmentation based unsupervise
 
 
 tags:
-  - Keyword Spotting
+  - Speech
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9892207'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9892207'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

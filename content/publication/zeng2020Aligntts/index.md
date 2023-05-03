@@ -29,8 +29,10 @@ abstract: Targeting at both high efficiency and performance, we propose AlignTTS
 tags:
   - TTS
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9054119'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9054119'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

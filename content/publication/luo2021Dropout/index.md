@@ -26,7 +26,7 @@ abstract: Predicting the altered acoustic frames is an effective way of self-sup
 
 
 tags:
-  - Speech Representation
+  - Speech
 featured: true
 links:
 - name: "ISCA"

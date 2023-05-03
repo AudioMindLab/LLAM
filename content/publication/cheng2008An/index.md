@@ -23,7 +23,7 @@ abstract: The theoretic foundation of traditional microphone array postfilters i
 
 
 tags:
-  - Speech Enhancement
+  - Speech
 featured: true
 links:
 - name: "ISCA"

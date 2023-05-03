@@ -23,7 +23,7 @@ abstract: Singing voice synthesis is a generative task that involves multi-dimen
 
 
 tags:
-  - Singing voice synthesis
+  - MIR
 featured: true
 links:
 - name: "IEEE"

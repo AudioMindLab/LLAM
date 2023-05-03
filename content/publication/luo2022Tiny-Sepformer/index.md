@@ -27,10 +27,12 @@ abstract: Time-domain Transformer neural networks have proven their superiority 
 
 
 tags:
-  - Speech Separation
+  - Speech
 featured: true
-
-url_pdf: https://www.isca-speech.org/archive/interspeech_2022/luo22_interspeech.html
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2022/luo22_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/luo22_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

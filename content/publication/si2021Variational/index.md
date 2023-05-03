@@ -29,10 +29,12 @@ abstract: Large-scale deep neural networks (DNNs) such as convolutional neural n
 
 
 tags:
-  - Audio Classification
+  - Speech
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2021/si21_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2021/si21_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2021/si21_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

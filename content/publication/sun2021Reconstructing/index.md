@@ -30,8 +30,10 @@ abstract: This paper introduces a dual learning system for neural voice conversi
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: https://ieeexplore.ieee.org/document/9687965
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9687965'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

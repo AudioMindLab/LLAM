@@ -23,7 +23,7 @@ abstract: This paper presents a novel method to design the microphone array post
 
 
 tags:
-  - Speech Enhancement
+  - Speech
 featured: true
 
 url_pdf: http://www.nlpr.ia.ac.cn/2011papers/gjkw/gk61.pdf

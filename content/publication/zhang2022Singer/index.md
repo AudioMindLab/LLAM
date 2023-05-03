@@ -23,7 +23,7 @@ abstract: Metaverse is an interactive world that combines reality and virtuality
 
 
 tags:
-  - Singer Identification
+  - MIR
 featured: true
 links:
 - name: "IEEE"

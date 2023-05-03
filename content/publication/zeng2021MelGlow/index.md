@@ -29,8 +29,10 @@ abstract: Recent neural vocoders usually use a WaveNet-like network to capture t
 tags:
   - TTS
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9383603'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9383603'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

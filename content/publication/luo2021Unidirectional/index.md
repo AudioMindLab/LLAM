@@ -29,8 +29,10 @@ abstract: Self-attention models have been successfully applied in end-to-end spe
 tags:
   -  ASR
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9413932'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9413932'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

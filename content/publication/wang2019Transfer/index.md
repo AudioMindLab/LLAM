@@ -25,11 +25,12 @@ abstract: In this paper, a transfer learning method that exploits artist tags fo
 
 
 tags:
-  - Music emotion recognition
-  - Music genre classification
+  - MIR
 featured: true
-
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-15-2756-2_7'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-981-15-2756-2_7'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -26,8 +26,10 @@ abstract: Recent neural speech synthesis systems have gradually focused on the c
 tags:
   - TTS
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2020/zeng20b_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2020/zeng20b_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2020/zeng20b_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -29,7 +29,7 @@ abstract: Voice activity detection (VAD) makes a distinction between speech and 
 
 
 tags:
-  - Voice Activity Detection
+  - Speech
 featured: true
 links:
 - name: "ISCA"

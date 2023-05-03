@@ -26,10 +26,12 @@ abstract: Singing voice detection (SVD), to recognize vocal parts in the song, i
 
 
 tags:
-  - SVD
+  - MIR
 featured: true
-
-url_pdf: https://link.springer.com/chapter/10.1007/978-981-19-4703-2_7
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-981-19-4703-2_7'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

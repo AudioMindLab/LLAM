@@ -28,8 +28,10 @@ abstract: Nonparallel multi-domain voice conversion methods such as the StarGAN-
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-30108-7_30'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/chapter/10.1007/978-3-031-30108-7_30'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

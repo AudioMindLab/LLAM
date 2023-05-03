@@ -24,7 +24,7 @@ abstract: In this paper, we study the issue of automatic singer identification (
 
 
 tags:
-  - Singer Identification
+  - MIR
 featured: true
 links:
 - name: "IEEE"

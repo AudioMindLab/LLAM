@@ -27,7 +27,7 @@ abstract: Silent speech interfaces (SSI) has been an exciting area of recent int
 
 
 tags:
-  -  Silent Speech Interfaces
+  -  Speech
 featured: true
 links:
 - name: "IEEE"

@@ -29,10 +29,12 @@ abstract: Although deep Neural Networks (DNNs) have achieved tremendous success 
 
 
 tags:
-  - Audio Classification
+  - Speech
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2022/ye22b_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2022/ye22b_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/ye22b_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

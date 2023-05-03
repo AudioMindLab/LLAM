@@ -22,7 +22,7 @@ abstract: Handling variable ambient noise is a challenging task for automatic sp
 
 
 tags:
-  - Noise Robust Speech Recognition
+  - Speech
 featured: true
 links:
 - name: "ISCA"

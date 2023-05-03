@@ -24,7 +24,7 @@ abstract: This paper presents an effective single-channel speech enhancement alg
 
 
 tags:
-  - Speech Enhancement
+  - Speech
 featured: true
 links:
 - name: "IEEE"

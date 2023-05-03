@@ -34,8 +34,12 @@ abstract: One-shot voice conversion (VC) with only a single target-speaker speec
 tags:
   - Voice Conversion
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2022/yang22f_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2022/yang22f_interspeech.html'
+- name: "DEMO"
+  url: 'https://im1eon.github.io/IS2022-SRDVC/'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/yang22f_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

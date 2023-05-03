@@ -24,10 +24,12 @@ abstract: Vocal melody extraction is an important and challenging task in music 
 
 
 tags:
-  - Vocal Melody Extraction
+  - MIR
 featured: true
-
-url_pdf: https://www.mdpi.com/2079-9292/10/3/298
+links:
+- name: "Electronics"
+  url: 'https://www.mdpi.com/2079-9292/10/3/298'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

@@ -25,7 +25,7 @@ abstract: Music genre classification has been widely studied in past few years f
 
 
 tags:
-  - Music Genre Classification
+  - MIR
 featured: true
 links:
 - name: "Arxiv"

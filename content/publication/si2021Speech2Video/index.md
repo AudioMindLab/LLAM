@@ -30,8 +30,10 @@ abstract: This paper investigates a novel task of talking face video generation 
 tags:
   - Talking Face
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2021/si21b_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2021/si21b_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2021/si21b_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

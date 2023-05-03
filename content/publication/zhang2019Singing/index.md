@@ -26,7 +26,7 @@ abstract: The problem of singing voice detection is to segment a song into vocal
 
 
 tags:
-  - Vocal Detection
+  - MIR
 featured: true
 links:
 - name: "Springer"
