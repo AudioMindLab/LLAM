@@ -1,2 +1,1 @@
-module github.com/AudioMindLab/AudioMindLab.github.io
-
+module github.com/AudioMindLab/LLAM
