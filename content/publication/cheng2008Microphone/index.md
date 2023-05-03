@@ -27,8 +27,10 @@ abstract: The theoretic foundation of traditional microphone array post-filters 
 tags:
   - Microphone Arrays
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/4697147'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/4697147'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

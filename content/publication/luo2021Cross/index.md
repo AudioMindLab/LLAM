@@ -38,8 +38,10 @@ abstract: In this paper, we demonstrate the efficacy of transfer learning and co
 tags:
   - ASR
 featured: true
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9428334'
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/9428334'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

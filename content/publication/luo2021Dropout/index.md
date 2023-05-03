@@ -28,8 +28,10 @@ abstract: Predicting the altered acoustic frames is an effective way of self-sup
 tags:
   - Speech Representation
 featured: true
-
-url_pdf: 'https://www.isca-speech.org/archive/interspeech_2021/luo21b_interspeech.html'
+links:
+- name: "ISCA"
+  url: 'https://www.isca-speech.org/archive/interspeech_2021/luo21b_interspeech.html'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2021/luo21b_interspeech.pdf'
 url_code: ''
 url_poster: ''
 url_slides: ''

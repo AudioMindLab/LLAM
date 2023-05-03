@@ -25,8 +25,10 @@ abstract: Handling variable, non-stationary ambient noise is a challenging task 
 tags:
   - Noise Robust Speech Recognition
 featured: true
-
-url_pdf: 'https://link.springer.com/article/10.1007/s11432-011-4490-6'
+links:
+- name: "Springer"
+  url: 'https://link.springer.com/article/10.1007/s11432-011-4490-6'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''

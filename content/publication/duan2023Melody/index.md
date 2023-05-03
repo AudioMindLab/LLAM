@@ -29,8 +29,10 @@ abstract: Melody generation aims to learn the distribution of real melodies to g
 tags:
   - Melody Generation
 featured: true
-
-url_pdf: https://dl.acm.org/doi/10.1145/3572031
+links:
+- name: "ACM"
+  url: 'https://dl.acm.org/doi/10.1145/3572031'
+url_pdf: ''
 url_code: ''
 url_poster: ''
 url_slides: ''
