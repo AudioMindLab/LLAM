@@ -32,6 +32,8 @@ featured: true
 links:
 - name: "ISCA"
   url: "https://www.isca-speech.org/archive/interspeech_2022/kang22d_interspeech.html"
+- name: "Arxiv"
+  url: "https://arxiv.org/abs/2206.13101"
 url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/kang22d_interspeech.pdf'
 url_code: ''
 url_poster: ''
