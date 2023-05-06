@@ -54,9 +54,9 @@ social:
   - icon: ieee
     icon_pack: ai
     link: https://ieeexplore.ieee.org/author/37089701578
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-7005-992X
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9789-7798
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Zuheng-Kang/73816351
