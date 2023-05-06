@@ -13,6 +13,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jzwang@188.com
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=noi4qcUAAAAJ
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/70/8380.html
@@ -22,6 +25,8 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Jianzong-Wang/66063851
+
+    
 email: jzwang@188.com
 superuser: false
 user_groups:
