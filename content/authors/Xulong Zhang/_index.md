@@ -9,7 +9,7 @@ interests:
   - TTS
   - Voice Conversion
   - Talking Face
-social:
+social: #https://jpswalsh.github.io/academicons/
   - icon: envelope
     icon_pack: fas
     link: mailto:zhangxulong@ieee.org
@@ -28,6 +28,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Xulong-Zhang/49469977
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57210447974
 email: zhangxulong@ieee.org
 superuser: true
 user_groups:
