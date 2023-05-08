@@ -25,6 +25,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Jianzong-Wang/66063851
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57261367700
 
     
 email: jzwang@188.com
