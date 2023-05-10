@@ -6,6 +6,9 @@ authors:
   - Jianzong Wang
   - Ning Cheng
   - Jing Xiao 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2023-04-17T00:00:00Z' # TODO
 doi: ''
 

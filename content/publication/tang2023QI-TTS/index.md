@@ -7,8 +7,8 @@ authors:
   - Ning Cheng
   - Jing Xiao 
 author_notes:
-  - Haobin Tang
-  - Xulong Zhang
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2023-04-17T00:00:00Z' # TODO
 doi: ''
 

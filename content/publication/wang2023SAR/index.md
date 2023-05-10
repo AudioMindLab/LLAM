@@ -6,7 +6,10 @@ authors:
   - Haobin Tang
   - Aolan Sun
   - Ning Cheng
-  - Jing Xiao 
+  - Jing Xiao
+author_notes:
+  - ''
+  - 'Corresponding author' 
 date: '2023-04-18T00:00:00Z' # TODO
 doi: ''
 
