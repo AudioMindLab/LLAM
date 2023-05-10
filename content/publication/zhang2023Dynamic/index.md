@@ -29,7 +29,7 @@ tags:
   - ASR
 featured: true
 links:
-- name: "Arxiv"
+- name: "arXiv"
   url: 'https://arxiv.org/abs/2303.07687'
 - name: 'IEEE'
   url: 'https://ieeexplore.ieee.org/document/10095227'

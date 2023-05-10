@@ -28,7 +28,7 @@ tags:
   - Other
 featured: true
 links:
-- name: "Arxiv"
+- name: "arXiv"
   url: 'https://arxiv.org/abs/2303.11421'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/10097171'

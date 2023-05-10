@@ -33,10 +33,10 @@ tags:
 featured: true
 
 links:
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2303.07643"
 - name: "IEEE"
   url: "https://ieeexplore.ieee.org/document/10096079"
-- name: "Arxiv"
-  url: "https://arxiv.org/abs/2303.07643"
 url_pdf: ''
 url_code: ''
 url_poster: ''

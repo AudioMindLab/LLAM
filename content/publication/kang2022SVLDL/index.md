@@ -32,7 +32,7 @@ featured: true
 links:
 - name: "IEEE"
   url: "https://ieeexplore.ieee.org/document/10023124"
-- name: "Arxiv"
+- name: "arXiv"
   url: "https://arxiv.org/abs/2210.09524"
 url_pdf: ''
 url_code: ''

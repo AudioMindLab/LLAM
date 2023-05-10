@@ -29,7 +29,7 @@ tags:
   - TTS
 featured: true
 links:
-- name: "Arxiv"
+- name: "arXiv"
   url: 'https://arxiv.org/abs/2304.11547'
 url_pdf: ''
 url_code: ''
