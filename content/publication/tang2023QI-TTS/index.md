@@ -6,6 +6,9 @@ authors:
   - Jianzong Wang
   - Ning Cheng
   - Jing Xiao 
+author_notes:
+  - Haobin Tang
+  - Xulong Zhang
 date: '2023-04-17T00:00:00Z' # TODO
 doi: ''
 
