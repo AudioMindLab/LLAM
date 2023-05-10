@@ -27,9 +27,9 @@ abstract: Non-parallel many-to-many voice conversion is a kind of style transfer
 tags:
   - Voice Conversion
 featured: true
-# links:
-# - name: 
-#   url: 
+links:
+- name: 'IEEE'
+  url: 'https://ieeexplore.ieee.org/document/10094969'
 url_pdf: ''
 url_code: ''
 url_poster: ''

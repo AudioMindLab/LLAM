@@ -31,6 +31,8 @@ featured: true
 links:
 - name: "Arxiv"
   url: 'https://arxiv.org/abs/2303.07687'
+- name: 'IEEE'
+  url: 'https://ieeexplore.ieee.org/document/10095227'
 url_pdf: ''
 url_code: ''
 url_poster: ''

@@ -27,9 +27,9 @@ abstract: Voice Conversion(VC) refers to converting the voice char- acteristics 
 tags:
   - Voice Conversion
 featured: true
-# links:
-# - name: ""
-#   url: ''
+links:
+- name: "IEEE"
+  url: 'https://ieeexplore.ieee.org/document/10095654'
 url_pdf: ''
 url_code: ''
 url_poster: ''
