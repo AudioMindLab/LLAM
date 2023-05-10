@@ -14,7 +14,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: '实验室名字“Lab of Large Audio Model” 简称LLAM，中文名“音频大模型实验室”，致力于探索和发展音频和声音技术的前沿和未来，构建音频大模型。'
+    description: 'The Lab of Large Audio Model (LLAM) is committed to exploring and advancing the forefront and future of audio and sound technology, and building large audio models. 音频大模型实验室，致力于探索和发展音频和声音技术的前沿和未来，构建音频大模型。'
     twitter: 'zhang_xu_long'
   analytics:
     google_analytics: ''
