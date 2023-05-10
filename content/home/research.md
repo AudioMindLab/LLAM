@@ -30,5 +30,7 @@ design:
 <p>Research that aims to create realistic, animated avatars that can speak and convey emotions in a natural and expressive manner. This technology has numerous applications, such as in virtual assistants, video games, and film production.</p>
 <h2>Music AI</h2>
 <p>Research topics related to music information retrieval, including song detection, singer identification, main melody extraction, and voice beautification.</p>
+<h2>Speech Security</h2>
+<p>Research aims to address various security threats and vulnerabilities associated with speech data, speech recognition systems, and voice communication. </p>
 <h2>Infant Acoustic</h2>
 <p>Research that investigates sound perception and production in infants, ranging from the prenatal stage up to around 24 months of age, involves a multidisciplinary approach, drawing from fields such as psychology, developmental sciences, linguistics, neuroscience, and audiology. </p>
