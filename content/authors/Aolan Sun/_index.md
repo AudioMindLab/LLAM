@@ -25,7 +25,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
-highlight_name: true
+highlight_name: false
 ---
 
 My research interests include TTS, Voice Conversion, Talking Face.
