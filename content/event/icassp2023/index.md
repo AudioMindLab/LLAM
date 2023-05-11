@@ -52,7 +52,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
