@@ -2,33 +2,32 @@
 title: ICASSP 2023
 
 event: ICASSP 2023
-event_url: https://example.org
+event_url: https://2023.ieeeicassp.org/
 
-location: ICASSP 2023
-address:
-  street: ICASSP 2023
-  city: ICASSP 2023
-  region: ICASSP 2023
-  postcode: '94305'
-  country: United States
+# location: ICASSP 2023
+# address:
+#   street: ICASSP 2023
+#   city: ICASSP 2023
+#   region: ICASSP 2023
+#   postcode: '94305'
+#   country: United States
 
-summary: ICASSP 2023
-abstract: ICASSP 2023 ICASSP 2023
+summary: 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), which will take place in the Greek island of Rhodes from June 04 to June 10, 2023. The flagship conference of the IEEE Signal Processing Society (SPS) will be held in-person at the Rodos Palace Luxury Convention Resort. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-06-04T13:00:00Z'
+date_end: '2023-06-10T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-05-11T00:00:00Z'
 
-authors: []
+authors: [Jianzong Wang, Xulong Zhang, Haobin Tang, Huaizhen Tang, Ganghui Ru, Kexin Zhu, Zuheng Kang, Ning Cheng, Jing Xiao]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'ICASSP 2023'
