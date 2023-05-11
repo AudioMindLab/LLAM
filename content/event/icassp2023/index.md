@@ -12,7 +12,7 @@ event_url: https://2023.ieeeicassp.org/
 #   postcode: '94305'
 #   country: United States
 
-summary: 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), which will take place in the Greek island of Rhodes from June 04 to June 10, 2023. The flagship conference of the IEEE Signal Processing Society (SPS) will be held in-person at the Rodos Palace Luxury Convention Resort. 
+abstract: 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), which will take place in the Greek island of Rhodes from June 04 to June 10, 2023. The flagship conference of the IEEE Signal Processing Society (SPS) will be held in-person at the Rodos Palace Luxury Convention Resort. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
