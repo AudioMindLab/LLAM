@@ -7,7 +7,9 @@ authors:
   - Junqing Peng
   - Xiaoyang Qu
   - Jing Xiao
-
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
  
 date: '2023-04-05T00:00:00Z' # TODO
 doi: ''
