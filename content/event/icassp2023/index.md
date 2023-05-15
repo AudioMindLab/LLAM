@@ -10,7 +10,7 @@ event_url: https://2023.ieeeicassp.org/
 #   city: ICASSP 2023
 #   region: ICASSP 2023
 #   postcode: '94305'
-#   country: United States
+#   country: Greek
 
 abstract: 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), which will take place in the Greek island of Rhodes from June 04 to June 10, 2023. The flagship conference of the IEEE Signal Processing Society (SPS) will be held in-person at the Rodos Palace Luxury Convention Resort. We have a total of 9 papers accepted, covering research topics such as TTS, ASR, voice conversion, and emotion computing.
 
@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-05-11T00:00:00Z'
 
-authors: [Jianzong Wang, Xulong Zhang, Haobin Tang, Huaizhen Tang, Ganghui Ru, Kexin Zhu, Zuheng Kang, Ning Cheng, Jing Xiao]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
