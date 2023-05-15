@@ -39,7 +39,7 @@
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_posts" | default "Posts" }}</h3>
+      <h3>{{ i18n "user_profile_posts" | default "Events" }}</h3>
       <ul>
         {{ range $query }}
         <li>
