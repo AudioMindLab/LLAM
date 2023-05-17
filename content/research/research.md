@@ -7,34 +7,40 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 10
 
-#title: 'Pinned Projects'
+#title: Projects
 #subtitle: ''
 
 content:
-  count: 4
-  order: desc
   # Page type to display. E.g. project.
   page_type: publication #project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #filter_default: 0
+  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
+
+
+
   filter_button:
-  #- name: All
-  #  tag: '*'
-  #- name: Smart Edge
-  #  tag: Smart Edge
-  #- name: Smart City
-  #  tag: Smart City
-  #- name: Smart Healthcare
-  #  tag: Smart Healthcare
+  - name: TTS
+    tag: TTS
+  - name: Voice Conversion
+    tag: Voice Conversion
+  - name: Talking Face
+    tag: Talking Face
+  - name: ASR
+    tag: ASR
+  - name: MIR
+    tag: MIR
+  - name: Speech
+    tag: Speech
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -45,8 +51,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 1
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

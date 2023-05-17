@@ -44,6 +44,9 @@ main:
     url: publication
     weight: 7
     parent: Publications
+  - name: Research
+    url: research
+    weight: 55
   - name: Pre-Avatar
     url: pre-avatar
     weight: 60
