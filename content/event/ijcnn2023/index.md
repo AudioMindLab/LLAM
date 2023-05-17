@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-05-17T00:00:00Z'
 
-authors: [Jianzong Wang, Xulong Zhang, Haobin Tang, Ning Cheng, Jing Xiao]
+authors: [Jianzong Wang, Xulong Zhang, Haobin Tang, Aolan Sun, Ning Cheng, Jing Xiao]
 tags: []
 
 # Is this a featured talk? (true/false)
