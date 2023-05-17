@@ -16,37 +16,14 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: TTS
-    url: tag/tts
+  - name: Main Research
+    url: research
     weight: 1
-    parent: Publications
-  - name: Voice Conversion
-    url: tag/voice-conversion
-    weight: 2
-    parent: Publications
-  - name: Talking Face
-    url: tag/talking-face
-    weight: 3
-    parent: Publications
-  - name: ASR
-    url: tag/asr
-    weight: 4
-    parent: Publications
-  - name: MIR
-    url: tag/mir
-    weight: 5
-    parent: Publications
-  - name: Speech
-    url: tag/speech
-    weight: 6
     parent: Publications
   - name: All
     url: publication
-    weight: 7
+    weight: 2
     parent: Publications
-  - name: Research
-    url: research
-    weight: 55
   - name: Pre-Avatar
     url: pre-avatar
     weight: 60
