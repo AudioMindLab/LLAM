@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP2022*
+publication_short: In *ICASSP2022* (CCF-B)
 
 abstract: Any-to-any voice conversion problem aims to convert voices for source and target speakers, which are out of the training data. Previous works wildly utilize the disentangle-based models. The disentangle-based model assumes the speech consists of content and speaker style information and aims to untangle them to change the style information for conversion. Previous works focus on reducing the dimension of speech to get the content information. But the size is hard to determine to lead to the untangle overlapping problem. We propose the Disentangled Representation Voice Conversion (DRVC) model to address the issue. DRVC model is an end-to-end self-supervised model consisting of the content encoder, timbre encoder, and generator. Instead of the previous work for reducing speech size to get content, we propose a cycle for restricting the disentanglement by the Cycle Reconstruct Loss and Same Loss. The experiments show there is an improvement for converted speech on quality and voice similarity.
 

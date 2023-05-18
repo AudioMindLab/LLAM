@@ -17,7 +17,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *18th International Conference on Mobility, Sensing and Networking*
-publication_short: In *MSN2022*
+publication_short: In *MSN2022* (CCF-C)
 
 abstract: In this paper, we proposed Adapitch, a multi-speaker TTS method that makes adaptation of the supervised module with untranscribed data. We design two self supervised modules to train the text encoder and mel decoder separately with untranscribed data to enhance the representation of text and mel. To better handle the prosody information in a synthesized voice, a supervised TTS module is designed conditioned on content disentangling of pitch, text, and speaker. The training phase was separated into two parts, pretrained and fixed the text encoder and mel decoder with unsupervised mode, then the supervised mode on the disentanglement of TTS. Experiment results show that the Adaptich achieved much better quality than baseline methods.
 

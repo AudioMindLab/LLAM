@@ -17,7 +17,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *18th International Conference on Mobility, Sensing and Networking*
-publication_short: In *MSN2022*
+publication_short: In *MSN2022* (CCF-C)
 
 abstract: Recent advances in pre-trained language models have improved the performance for text classification tasks. However, little attention is paid to the priority scheduling strategy on the samples during training. Humans acquire knowledge gradually from easy to complex concepts, and the difficulty of the same material can also vary significantly in different learning stages. Inspired by this insights, we proposed a novel self-paced dynamic curriculum learning (SPDCL) method for imbalanced text classification, which evaluates the sample difficulty by both linguistic character and model capacity. Meanwhile, rather than using static curriculum learning as in the existing research, our SPDCL can reorder and resample training data by difficulty criterion with an adaptive from easy to hard pace. The extensive experiments on several classification tasks show the effectiveness of SPDCL strategy, especially for the imbalanced dataset.
 

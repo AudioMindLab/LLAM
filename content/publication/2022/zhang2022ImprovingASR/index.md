@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *18th International Conference on Mobility, Sensing and Networking*
-publication_short: In *MSN2022*
+publication_short: In *MSN2022* (CCF-C)
 
 abstract: Recovering the masked speech frames is widely applied in speech representation learning. However, most of these models use random masking in the pre-training. In this work, we proposed two kinds of masking approaches{:} (1) speech-level masking, making the model to mask more speech segments than silence segments, (2) phoneme-level masking, forcing the model to mask the whole frames of the phoneme, instead of phoneme pieces. We pre-trained the model via these two approaches, and evaluated on two downstream tasks, phoneme classification and speaker recognition. The experiments demonstrated that the proposed masking approaches are beneficial to improve the performance of speech representation.
 

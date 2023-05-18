@@ -19,7 +19,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *18th International Conference on Mobility, Sensing and Networking*
-publication_short: In *MSN2022*
+publication_short: In *MSN2022* (CCF-C)
 
 abstract: The recent emergence of joint CTC-Attention model shows significant improvement in automatic speech recognition (ASR). The improvement largely lies in the modeling of linguistic information by decoder. The decoder joint-optimized with an acoustic encoder renders the language model from ground-truth sequences in an auto-regressive manner during training. However, the training corpus of the decoder is limited to the speech transcriptions, which is far less than the corpus needed to train an acceptable language model. This leads to poor robustness of decoder. To alleviate this problem, we propose linguistic-enhanced transformer, which introduces refined CTC information to decoder during training process, so that the decoder can be more robust. Our experiments on AISHELL-1 speech corpus show that the character error rate (CER) is relatively reduced by up to 7 %. We also find that in joint CTC-Attention ASR model, decoder is more sensitive to linguistic information than acoustic information.
 

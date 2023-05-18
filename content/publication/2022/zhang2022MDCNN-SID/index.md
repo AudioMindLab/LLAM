@@ -17,7 +17,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 International Joint Conference on Neural Networks*
-publication_short: In *IJCNN2022*
+publication_short: In *IJCNN2022* (CCF-C)
 
 abstract: Most singer identification methods are processed in the frequency domain, which potentially leads to information loss during the spectral transformation. In this paper, instead of the frequency domain, we propose an end-to-end architecture that addresses this problem in the waveform domain. An en-coder based on Multi-scale Dilated Convolution Neural Networks (MDCNN) was introduced to generate wave embedding from the raw audio signal. Specifically, dilated convolution layers are used in the proposed method to enlarge the receptive field, aiming to extract song-level features. Furthermore, skip connection in the backbone network integrates the multi-resolution acoustic features learned by the stack of convolution layers. Then, the obtained wave embedding is passed into the following networks for singer identification. In experiments, the proposed method achieves comparable performance on the benchmark dataset of Artist20, which significantly improves related works.
 

@@ -21,7 +21,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP2023*
+publication_short: In *ICASSP2023* (CCF-B)
 
 abstract: Music genre classification has been widely studied in past few years for its various applications in music information retrieval. Previous works tend to perform unsatisfactorily, since those methods only use audio content or jointly use audio content and lyrics content inefficiently. In addition, as genres normally co-occur in a music track, it is desirable to capture and model the genre correlations to improve the performance of multi-label music genre classification. To solve these issues, we present a novel multi-modal method leveraging audio-lyrics contrastive loss and two symmetric cross-modal attention, to align and fuse features from audio and lyrics. Furthermore, based on the nature of the multi-label classification, a genre correlations extraction module is presented to capture and model potential genre correlations. Extensive experiments demonstrate that our proposed method significantly surpasses other multi-label music genre classification methods and achieves state-of-the-art result on Music4All dataset.
 

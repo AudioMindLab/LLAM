@@ -21,7 +21,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP2023*
+publication_short: In *ICASSP2023* (CCF-B)
 
 abstract: Using deep learning methods to classify EEG signals can accurately identify people's emotions. However, existing studies have rarely considered the application of the information in another domain's representations to feature selection in the time-frequency domain. We propose a classification network of EEG signals based on the cross-domain feature fusion method, which makes the network more focused on the features most related to brain activities and thinking changes by using the multi-domain attention mechanism. In addition, we propose a two-step fusion method and apply these methods to the EEG emotion recognition network. Experimental results show that our proposed network, which combines multiple representations in the time-frequency domain and spatial domain, outperforms previous methods on public datasets and achieves state-of-the-art at present.
 

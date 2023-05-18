@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP2023*
+publication_short: In *ICASSP2023* (CCF-B)
 
 abstract: Voice Conversion(VC) refers to converting the voice char- acteristics of audio to another one as it is said by other people. Recently, more and more studies have focused on disentangle-based VC, which separates the timbre and lin- guistic content information from an audio signal to effectively achieve VC tasks. However, It’s still challenging to extract phoneme-level features from frame-level hidden representa- tions. This paper proposed a novel zero-shot voice conversion framework that utilizes contrastive learning and vector quan- tization to encourage the frame-level hidden features closer to the phoneme-level linguistic information, called VQ-CL. All objective and subjective experiment results show that VQ-CL has better performance than previous studies in sepa- rating content and voice characteristics to improve the sound quality of generated speech.
 
