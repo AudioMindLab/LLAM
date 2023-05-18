@@ -17,7 +17,7 @@ social:
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Ning-Cheng/145292435
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Principal Investigators
 highlight_name: true

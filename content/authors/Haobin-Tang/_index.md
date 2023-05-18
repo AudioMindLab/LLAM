@@ -3,7 +3,7 @@
 title: Haobin Tang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: University of Science and Technology of China
@@ -59,7 +59,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: True
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

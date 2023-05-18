@@ -22,7 +22,7 @@ social:
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Aolan-Sun/1518658213
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 highlight_name: false
