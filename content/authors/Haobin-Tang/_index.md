@@ -18,6 +18,7 @@ role: University of Science and Technology of China
 
 interests:
   - Expressive TTS
+  - ASR
 
 
 # education:
