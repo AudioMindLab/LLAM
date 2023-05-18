@@ -26,7 +26,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *23rd Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2022*
+publication_short: In *INTERSPEECH2022* (CCF-C)
 
 abstract: One-shot voice conversion (VC) with only a single target-speaker speech for reference has become a new research direction. Existing works generally disentangle timbre, while information about pitch, rhythm and content is still mixed together. To perform one-shot VC effectively with further disentangling these speech components, we employ random resampling for pitch and content encoder and use the variational contrastive log-ratio upper bound of mutual information and gradient reversal layer based adversarial mutual information learning to ensure the different parts of the latent space containing only the desired disentanglement during training. Experiments on the VCTK dataset show the model is a state-of-the-art one-shot VC framework in terms of naturalness and intellgibility of converted speech. In addition, we can transfer style of one-shot VC on timbre, pitch and rhythm separately by speech representation disentanglement. Our code, pre-trained models and demo are available at https://im1eon.github.io/IS2022-SRDVC/.
 

@@ -19,7 +19,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Neural Information Processing*
-publication_short: In *ICONIP2022*
+publication_short: In *ICONIP2022* (CCF-C)
 
 abstract: Nonparallel multi-domain voice conversion methods such as the StarGAN-VCs have been widely applied in many scenarios. However, the training of these models usually poses a challenge due to their complicated adversarial network architectures. To address this, in this work we leverage the state-of-the-art contrastive learning techniques and incorporate an efficient Siamese network structure into the StarGAN discriminator. Our method is called SimSiam-StarGAN-VC and it boosts the training stability and effectively prevents the discriminator overfitting issue in the training process. We conduct experiments on the Voice Conversion Challenge (VCC 2018) dataset, plus a user study to validate the performance of our framework. Our experimental results show that SimSiam-StarGAN-VC significantly outperforms existing StarGAN-VC methods in terms of both the objective and subjective metrics.
 
