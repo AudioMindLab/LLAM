@@ -67,4 +67,4 @@ user_groups:
   - Grad Students
 ---
 
-The main research direction is artificial intelligence, speech recognition, and speech synthesis, etc.
+Tang Haobin is currently a graduate student at the University of Science and Technology of China (USTC), and an intern of speech algorithm engineer at Ping An Technology (Shenzhen) Co., Ltd. His research interests focus on expressive speech synthesis and automatic speech recognition.
