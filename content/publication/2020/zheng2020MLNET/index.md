@@ -21,7 +21,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *21th Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2020*
+publication_short: In *INTERSPEECH2020* (CCF-C)
 
 abstract: Voice activity detection (VAD) makes a distinction between speech and non-speech and its performance is of crucial importance for speech based services. Recently, deep neural network (DNN)-based VADs have achieved better performance than conventional signal processing methods. The existed DNN-based models always handcrafted a fixed window to make use of the contextual speech information to improve the performance of VAD. However, the fixed window of contextual speech information can’t handle various unpredictable noise environments and highlight the critical speech information to VAD task. In order to solve this problem, this paper proposed an adaptive multiple receptive-field attention neural network, called MLNET, to finish VAD task. The MLNET leveraged multi-branches to extract multiple contextual speech information and investigated an effective attention block to weight the most crucial parts of the context for final classification. Experiments in real-world scenarios demonstrated that the proposed MLNET-based model outperformed other baselines.
 
