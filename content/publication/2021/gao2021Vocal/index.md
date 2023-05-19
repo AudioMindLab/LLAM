@@ -16,7 +16,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Electronics2021*
-publication_short: In *Electronics2021*
+publication_short: In *Electronics2021* (IF 2.69)
 
 abstract: Vocal melody extraction is an important and challenging task in music information retrieval. One main difficulty is that, most of the time, various instruments and singing voices are mixed according to harmonic structure, making it hard to identify the fundamental frequency (F0) of a singing voice. Therefore, reducing the interference of accompaniment is beneficial to pitch estimation of the singing voice. In this paper, we first adopted a high-resolution network (HRNet) to separate vocals from polyphonic music, then designed an encoder-decoder network to estimate the vocal F0 values. Experiment results demonstrate that the effectiveness of the HRNet-based singing voice separation method in reducing the interference of accompaniment on the extraction of vocal melody, and the proposed vocal melody extraction (VME) system outperforms other state-of-the-art algorithms in most cases.
 
