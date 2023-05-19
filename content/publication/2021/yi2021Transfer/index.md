@@ -19,7 +19,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2021 International Joint Conference on Neural Networks*
-publication_short: In *IJCNN2021*
+publication_short: In *IJCNN2021* (CCF-C)
 
 abstract: Recently, there are several domains that have their own feature extractors, such as ResNet, BERT, and GPT-x, which are widely used for various down-stream tasks. These models are pre-trained on large amounts of unlabeled data by self-supervision. In the speech domain, wav2vec2.0 starts to show its powerful representation ability and feasibility for ultra-low resource speech recognition tasks. This speech feature extractor is pre-trained on the monolingual audiobook corpus, whereas it has not been thoroughly examined in real spoken scenarios and other languages. In this work, we endeavor to transfer the knowledge from the pre-trained monolingual wav2vec2.0 to cross-lingual spoken ASR tasks with less than 20 hours of labeled data. We achieve more than 20% relative improvements in all the six languages compared with previous methods, establishing a strong benchmark on CALLHOME datasets. Compared with supervised pre-training, self-supervision training used in wav2vec2.0 has a better transfer ability. We also find that using coarse-grained modeling units, such as subword or character, usually achieves better results than fine-grained modeling units, such as phone or letter.
 

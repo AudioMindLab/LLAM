@@ -23,7 +23,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *22th Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2021*
+publication_short: In *INTERSPEECH2021* (CCF-C)
 
 abstract: Large-scale deep neural networks (DNNs) such as convolutional neural networks (CNNs) have achieved impressive performance in audio classification for their powerful capacity and strong generalization ability. However, when training a DNN model on low-resource tasks, it is usually prone to overfitting the small data and learning too much redundant information. To address this issue, we propose to use variational information bottleneck (VIB) to mitigate overfitting and suppress irrelevant information. In this work, we conduct experiments on a 4-layer CNN. However, the VIB framework is ready-to-use and could be easily utilized with many other state-of-the-art network architectures. Evaluation on a few audio datasets shows that our approach significantly outperforms baseline methods, yielding ≥ 5.0% improvement in terms of classification accuracy in some low-source settings.
 

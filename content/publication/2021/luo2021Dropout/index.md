@@ -19,7 +19,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *22th Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2021*
+publication_short: In *INTERSPEECH2021* (CCF-C)
 
 abstract: Predicting the altered acoustic frames is an effective way of self-supervised learning for speech representation. However, it is challenging to prevent the pretrained model from overfitting. In this paper, we proposed to introduce two dropout regularization methods into the pretraining of transformer encoder{:}(1) attention dropout, (2) layer dropout. Both of the two dropout methods encourage the model to utilize global speech information, and avoid just copying local spectrum features when reconstructing the masked frames. We evaluated the proposed methods on phoneme classification and speaker recognition tasks. The experiments demonstrate that our dropout approaches achieve competitive results, and improve the performance of classification accuracy on downstream tasks.
 
