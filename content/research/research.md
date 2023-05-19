@@ -40,6 +40,8 @@ content:
     tag: MIR
   - name: Speech
     tag: Speech
+  - name: Other
+    tag: Other
   
 
 design:
