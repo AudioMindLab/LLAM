@@ -41,7 +41,7 @@ links:
   url: "https://ieeexplore.ieee.org/document/10096079"
 url_pdf: ''
 url_code: ''
-url_poster: ''
+url_poster: 'icassp2023-kangzuheng.pdf'
 url_slides: ''
 
 # Featured image
