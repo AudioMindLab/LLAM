@@ -15,6 +15,7 @@ type: book
 1. Individual frontal photo, with a resolution of at least 256*256 pixels.
 2. Transcript of the speech corresponding to each PowerPoint slide. Please divide the text into paragraphs according to the corresponding slide numbers. The speech should be in a conversational style, avoiding formulas such as "x+y=z" and using more colloquial expressions.
 3. Record 30 audio clips of the specified sentences in a quiet environment. The specific sentences to be recorded are as follows:
+{{< spoiler text="Click to view the sentences" >}}
 
    ```
     1|I believe that video gave you the basic idea of Pingan Group.
@@ -47,11 +48,11 @@ type: book
     28|It can greatly reduce service costs for enterprises and provide more perfect services.
     29|In financial services, we hope the digital customer service staff are real people instead of digital people.
     30|Especially for customers, real people can better understand the needs of customers.
+
+{{< /spoiler >}}
+
+
     
 ## Contact Information
 
-[Xulong Zhang (zhangxulong@ieee.org)](mailto:zhangxulong@ieee.org)
-
-<!-- {{% mention "Xulong Zhang" %}} -->
-
-{{% "Xulong Zhang" %}}
+{{% mention "Xulong Zhang" %}}
