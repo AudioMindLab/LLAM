@@ -6,4 +6,3 @@ date: '2022-01-24'
 type: book
 ---
 
-{{< list_children >}}
