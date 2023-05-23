@@ -1,9 +1,7 @@
 ---
 title: Pre-Avatar production
-type: widget_page
-authors:
-  - Xulong Zhang
-  - Jianzong Wang
+date: '2022-01-30'
+type: book
 ---
 <!-- ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
@@ -53,3 +51,4 @@ authors:
 ## Contact Information
 
 [Xulong Zhang (zhangxulong@ieee.org)](mailto:zhangxulong@ieee.org)
+{{% mention "Xulong Zhang" %}}
