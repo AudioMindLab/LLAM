@@ -1,10 +1,8 @@
 ---
 title: Pre-Avatar production
-type: page
 authors:
   - Xulong Zhang
   - Jianzong Wang
-
 ---
 <!-- ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
