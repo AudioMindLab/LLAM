@@ -51,4 +51,7 @@ type: book
 ## Contact Information
 
 [Xulong Zhang (zhangxulong@ieee.org)](mailto:zhangxulong@ieee.org)
-{{% mention "Xulong Zhang" %}}
+
+<!-- {{% mention "Xulong Zhang" %}} -->
+
+{{% "Xulong Zhang" %}}
