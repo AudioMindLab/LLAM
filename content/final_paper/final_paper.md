@@ -55,8 +55,8 @@ demo 仓库：https://github.com/TTS-SCI-zhangxulong/FDMN-TTS
 Foundation Item: The Key Research and Development Program of Guangdong Province (No.2021B0101400003)
 ```
 
-# 会议扩充期刊
+# ~~会议扩充期刊~~
 
-* 期刊版12页长文：Automatic Audio Chord Recognition With MIDI-Trained Deep Feature and BLSTM-CRF Sequence Decoding Model 
-* 会议版4页短文：Music Chord Recognition Based on Midi-Trained Deep Feature and BLSTM-CRF Hybird Decoding
+* ~~期刊版12页长文：Automatic Audio Chord Recognition With MIDI-Trained Deep Feature and BLSTM-CRF Sequence Decoding Model~~
+* ~~会议版4页短文：Music Chord Recognition Based on Midi-Trained Deep Feature and BLSTM-CRF Hybird Decoding~~
 
