@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 9th Conference on Sound and Music Technology*
-publication_short: In *CSMT2022*
+publication_short: In *CSMT2022* (Best Paper Award)
 
 abstract: Singing voice detection (SVD), to recognize vocal parts in the song, is an essential task in music information retrieval (MIR). The task remains challenging since singing voice varies and intertwines with the accompaniment music, especially for some complicated polyphonic music such as choral music recordings. To address this problem, we investigate singing voice detection while discarding the interference from the accompaniment. The proposed SVD has two steps{:} i. The singing voice separation (SVS) technique is first utilized to filter out the singing voice’s potential part coarsely. ii. Upon the continuity of vocal in the time domain, Long-term Recurrent Convolutional Networks (LRCN) is used to learn compositional features. Moreover, to eliminate the outliers, we choose to use a median filter for time-domain smoothing. Experimental results show that the proposed method outperforms the existing state-of-the-art works on two public datasets, the Jamendo Corpus and the RWC pop dataset.
 
