@@ -1,5 +1,6 @@
 ---
 title: Pre-Avatar production
+type: widget_page
 authors:
   - Xulong Zhang
   - Jianzong Wang
