@@ -1,6 +1,6 @@
 ---
 title: Pre-Avatar production
-type: book
+type: page
 authors:
   - Xulong Zhang
   - Jianzong Wang
