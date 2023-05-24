@@ -58,4 +58,4 @@ summary: Material Preparation for Production
 
 {{% mention "Xulong Zhang" %}}
 
-{{< cite page="/authors/Xulong-Zhang" view="stream" >}}
+{{< cite page="/authors/Xulong-Zhang" view="citation" >}}
