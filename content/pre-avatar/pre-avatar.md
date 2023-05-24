@@ -3,7 +3,6 @@ title: Pre-Avatar production
 date: '2022-01-30'
 type: book
 summary: Material Preparation for Production
-show_related: true
 ---
 <!-- ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
@@ -58,3 +57,5 @@ show_related: true
 ## Contact Information
 
 {{% mention "Xulong Zhang" %}}
+
+{{< cite page="/authors/Xulong-Zhang" view="card" >}}
