@@ -58,4 +58,4 @@ summary: Material Preparation for Production
 
 {{% mention "Xulong Zhang" %}}
 
-{{< cite page="/authors/Xulong-Zhang" view="citation" >}}
+{{< cite page="/publication/2022/sun2022Pre-Avatar" view="citation" >}}
