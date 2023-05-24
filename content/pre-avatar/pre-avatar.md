@@ -3,6 +3,7 @@ title: Pre-Avatar production
 date: '2022-01-30'
 type: book
 summary: Material Preparation for Production
+show_related: true
 ---
 <!-- ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
