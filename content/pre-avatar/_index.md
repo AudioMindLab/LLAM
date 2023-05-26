@@ -7,3 +7,4 @@ type: book
 toc: false
 ---
 
+![logo-preavatar](logo-preavatar.png)
