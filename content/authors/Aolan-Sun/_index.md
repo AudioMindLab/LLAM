@@ -1,6 +1,6 @@
 ---
 title: Aolan Sun
-role: Researcher
+role: Engineer
 avatar_filename: avatar.jpg
 bio: My research interests include TTS, Voice Conversion, Talking Face.
 interests:
