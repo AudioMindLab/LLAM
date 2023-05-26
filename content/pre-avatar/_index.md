@@ -7,4 +7,5 @@ type: book
 toc: false
 ---
 
-![logo-preavatar](logo-preavatar.png)
+<!-- ![logo-preavatar](logo-preavatar.png) -->
+{{< figure src="logo-preavatar.png" caption="Pre-Avatar" theme="light" resize_options="250x250" >}}
