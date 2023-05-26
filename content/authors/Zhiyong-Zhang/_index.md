@@ -6,7 +6,7 @@ title: Zhiyong Zhang
 superuser: false
 
 # Role/position
-role: Researcher
+role: Engineer
 
 # Organizations/Affiliations
 # organizations:

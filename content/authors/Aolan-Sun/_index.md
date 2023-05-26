@@ -24,7 +24,7 @@ social:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Engineer
 highlight_name: false
 ---
 
