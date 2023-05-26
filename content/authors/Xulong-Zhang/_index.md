@@ -1,7 +1,6 @@
 ---
 title: Xulong Zhang
 role: Executive Director
-external_link: xulong.largeaudiomodel.com
 avatar_filename: avatar.jpg
 bio: My research interests include TTS, Voice Conversion, Music AI, Talking Face.
 interests:
