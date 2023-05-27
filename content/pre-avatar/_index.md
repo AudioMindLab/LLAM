@@ -8,7 +8,7 @@ toc: false
 # logo: logo-preavatar.png
 ---
 <!-- <img src="../../assets/media/logo-preavatar.png"  width="20%"> -->
-{{< figure src="logo_crop.png" >}}
+
 
 <!-- {{< toc hide_on="xl" >}} -->
 <!-- ![logo-preavatar](logo-preavatar.png) -->
