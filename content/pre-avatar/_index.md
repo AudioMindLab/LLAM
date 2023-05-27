@@ -1,5 +1,5 @@
 ---
-title: {{< figure src="logo.png" >}} ✨ Pre-Avatar
+title: ✨ Pre-Avatar
 linkTitle: Pre-Avatar
 summary: Pre-Avatar
 date: '2022-01-24'
@@ -8,7 +8,7 @@ toc: false
 # logo: logo-preavatar.png
 ---
 <!-- <img src="../../assets/media/logo-preavatar.png"  width="20%"> -->
-{{< figure src="logo.png" >}}
+{{< figure src="logo_crop.png" >}}
 
 <!-- {{< toc hide_on="xl" >}} -->
 <!-- ![logo-preavatar](logo-preavatar.png) -->
