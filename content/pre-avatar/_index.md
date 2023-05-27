@@ -1,5 +1,5 @@
 ---
-title: ✨ Pre-Avatar
+title: {{< figure src="logo.png" >}} ✨ Pre-Avatar
 linkTitle: Pre-Avatar
 summary: Pre-Avatar
 date: '2022-01-24'
