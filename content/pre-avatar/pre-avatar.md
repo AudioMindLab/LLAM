@@ -6,14 +6,8 @@ summary: Material Preparation for Production
 toc: false
 ---
 
+
 {{< figure src="logo_crop.png" >}}
-
-<!-- ### GTC 2022
-{{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
-
-### GTC 2023
-{{< youtube-enhanced id="_4Wl5lOoM1s" title="GTC2023" start="0" >}} -->
-
 
 ## Material Preparation for Production
 
