@@ -4,7 +4,9 @@ date: '2022-01-30'
 type: book
 summary: Material Preparation for Production
 ---
+
 {{< figure src="logo_crop.png" >}}
+
 <!-- ### GTC 2022
 {{< youtube-enhanced id="H2MGZAc6BCg" title="GTC2022" start="0" >}}
 
