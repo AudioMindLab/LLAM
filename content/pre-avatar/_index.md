@@ -11,7 +11,7 @@ type: book
 
 <tr>
 
-<td style="width:30%;vertical-align:top;">
+<td style="width:30%;vertical-align:center;">
 <a href="https://pre-avatar.largeaudiomodel.com">
 <img src="logo_crop.png" alt="pre-avatar" style="width:100%;" >
 </a>
