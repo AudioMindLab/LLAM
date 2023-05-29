@@ -6,7 +6,7 @@ date: '2022-01-24'
 type: book
 ---
 
-<table border="0">
+<table border="0" cellpadding="10">
 
 
 <tr>
