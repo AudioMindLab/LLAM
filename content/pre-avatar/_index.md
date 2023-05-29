@@ -7,7 +7,7 @@ type: book
 ---
 
 <a href="https://pre-avatar.largeaudiomodel.com">
-<img src="logo_crop.png" alt="pre-avatar" style="width:50%;">
+<img src="logo_crop.png" alt="pre-avatar" style="width:50%;" align="left">
 </a>
 <!-- {{< figure src="logo-preavatar.png" >}} -->
 
