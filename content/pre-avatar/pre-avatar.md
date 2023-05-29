@@ -3,6 +3,7 @@ title: Pre-Avatar production
 date: '2022-01-30'
 type: book
 summary: Material Preparation for Production
+toc: false
 ---
 
 {{< figure src="logo_crop.png" >}}
