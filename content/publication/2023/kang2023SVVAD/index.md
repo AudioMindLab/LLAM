@@ -28,9 +28,9 @@ abstract: Voice activity detection (VAD) improves the performance of speaker ver
 tags:
   - Speech
 featured: true
-# links:
-# - name: "arXiv"
-#   url: 'https://arxiv.org/abs/2304.11547'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2305.19581'
 url_pdf: ''
 url_code: ''
 url_poster: ''
