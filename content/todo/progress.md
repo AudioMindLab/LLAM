@@ -168,5 +168,11 @@ design:
     <td>智能系统学报</td>
     <td>待投稿</td>
   </tr>
+   <tr>
+    <td>23</td>
+    <td>sunyifu</td>
+    <td>EURASIP </td>
+    <td>在投</td>
+  </tr>
 </table>
 </div>
