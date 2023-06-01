@@ -1,3 +1,17 @@
+---
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title: |
+  In Progress
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+
 | 论文 | 会议/期刊 | 状态 |
 | --- | --- | --- |
 | dengyimin  | ADMA | ijcnn拒稿 在投 |
