@@ -11,6 +11,23 @@ design:
   css_style:
   css_class:
 ---
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+</style>
 
 <table>
   <tr>
