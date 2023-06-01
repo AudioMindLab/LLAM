@@ -28,7 +28,7 @@ design:
     padding: 8px;
   }
 </style>
-
+<div align=center>
 <table>
   <tr>
     <th>ID</th>
@@ -169,3 +169,4 @@ design:
     <td>待投稿</td>
   </tr>
 </table>
+</div>
