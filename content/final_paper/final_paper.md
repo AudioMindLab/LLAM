@@ -12,13 +12,17 @@ design:
   css_class:
 ---
 
-# 增加实验室主页
+# 增加单位信息
 
 ```
 \title{标题}
 \name{姓名}
-\address{Ping An Technology (Shenzhen) Co., Ltd.
-\\ \href{https://largeaudiomodel.com}{\color{gray} https://largeaudiomodel.com}}
+\address{Ping An Technology (Shenzhen) Co., Ltd., Shenzhen, China
+}
+```
+
+```
+\\ \href{https://largeaudiomodel.com}{\color{black} https://largeaudiomodel.com}~~
 ```
 
 # 增加致谢基金号
