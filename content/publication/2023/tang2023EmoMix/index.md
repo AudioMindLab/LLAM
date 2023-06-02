@@ -30,9 +30,9 @@ abstract: There has been significant progress in emotional Text-To-Speech (TTS) 
 tags:
   - TTS
 featured: true
-# links:
-# - name: "arXiv"
-#   url: 'https://arxiv.org/abs/2304.11547'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2306.00648'
 url_pdf: ''
 url_code: ''
 url_poster: ''
