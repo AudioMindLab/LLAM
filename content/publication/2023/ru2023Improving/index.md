@@ -37,7 +37,7 @@ links:
   url: 'https://ieeexplore.ieee.org/document/10097241'
 url_pdf: ''
 url_code: ''
-url_poster: ''
+url_poster: 'https://sigport.org/sites/default/files/docs/ICASSP%20poster_1.pdf'
 url_slides: ''
 
 # Featured image

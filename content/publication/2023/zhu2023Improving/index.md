@@ -37,7 +37,7 @@ links:
   url: 'https://ieeexplore.ieee.org/document/10097171'
 url_pdf: ''
 url_code: ''
-url_poster: ''
+url_poster: 'https://sigport.org/sites/default/files/docs/5501.pdf'
 url_slides: ''
 
 # Featured image
