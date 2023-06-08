@@ -123,10 +123,10 @@ design:
     <td>icassp</td>
     <td>待投</td>
   </tr>
-  <tr>
+    <tr>
     <td>15</td>
-    <td>ruganghui</td>
-    <td>icassp</td>
+    <td>联邦音频大模型</td>
+    <td>智能系统学报</td>
     <td>待投</td>
   </tr>
   <tr>
@@ -183,15 +183,6 @@ design:
     <td>SPL</td>
     <td>待投</td>
   </tr>
-  <tr>
-    <td>25</td>
-    <td>联邦音频大模型</td>
-    <td>智能系统学报</td>
-    <td>待投</td>
-  </tr>
 </table>
-
-
-
 
 </div>
