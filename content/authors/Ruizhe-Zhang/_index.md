@@ -18,6 +18,8 @@ role: The Hong Kong University of Science and Technology
 
 interests:
   - TTS
+  - Generative Artificial Intelligence
+  - Diffusion Model
 
 
 # education:
