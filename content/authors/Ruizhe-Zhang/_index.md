@@ -6,7 +6,7 @@ title: Ruizhe Zhang
 superuser: false
 
 # Role/position
-role: Shanghai University
+role: The Hong Kong University of Science and Technology
 
 # Organizations/Affiliations
 # organizations:
