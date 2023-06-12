@@ -12,7 +12,7 @@ design:
   css_class:
 ---
 
-* as a reviewer, how about this paper?
+* As a reviewer, how about this paper?
 * Can you give me some specific suggestions on how to improve the paper?
 * Can you also comment on the writing style and clarity of the paper?
 * Do you have any other comments or questions about the paper?
