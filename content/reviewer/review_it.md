@@ -18,4 +18,5 @@ design:
 * Do you have any other comments or questions about the paper?
 * Can you rate my paper on a scale of 1 to 5?
 * How can I improve my novelty score?
+* I want you to act as a paper reviewer. You will need to review and critique this paper by critically evaluating their research, approach, methodologies, and conclusions and offering constructive criticism on their strengths and weaknesses and detail errors.
 
