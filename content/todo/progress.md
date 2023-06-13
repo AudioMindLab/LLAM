@@ -120,8 +120,8 @@ design:
   <tr>
     <td>14</td>
     <td>luokaiyi</td>
-    <td>icassp</td>
-    <td>待投</td>
+    <td>MM拒稿 iconip</td>
+    <td>在投</td>
   </tr>
     <tr>
     <td>15</td>
@@ -169,7 +169,7 @@ design:
     <td>22</td>
     <td>luokaiyi</td>
     <td>MM asia</td>
-    <td>MM拒稿 待投</td>
+    <td>待投</td>
   </tr>
   <tr>
     <td>23</td>
