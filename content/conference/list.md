@@ -31,158 +31,181 @@ design:
 <div align=center>
 
 
-
 <table>
   <tr>
-    <th>ID</th>
-    <th>论文</th>
-    <th>会议/期刊</th>
-    <th>状态</th>
+    <th>会议名称</th>
+    <th>CCF等级</th>
+    <th>摘要</th>
+    <th>全文</th>
+    <th>Rebuttal</th>
+    <th>录用通知</th>
+    <th>Final</th>
+    <th>注册</th>
+    <th>会议</th>
+    <th>页数</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>zhangruizhe</td>
-    <td>aaai</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>liangziqi</td>
-    <td>aaai</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>zhangbingyuan</td>
-    <td>aaai</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>dengyimin</td>
     <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>zhangchuanyao -&gt; sunyifu</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>zhaojinfeng -&gt; tanghaobin</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>zhaojiahao -&gt; zhukexin</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>sunaolan</td>
-    <td>asru</td>
-    <td>interspeech拒稿 待投</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>婴儿声学</td>
-    <td>asru</td>
-    <td>interspeech拒稿 待投</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>jishengpeng</td>
-    <td>emnlp</td>
-    <td>interspeech拒稿 待投</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>sunyifu</td>
-    <td>EURASIP</td>
-    <td>在投</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>dengyimin</td>
-    <td>icassp</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>tanghaobin</td>
-    <td>icassp</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>luokaiyi</td>
-    <td>MM拒稿 iconip</td>
-    <td>在投</td>
-  </tr>
-    <tr>
+    <td>C</td>
+    <td>#</td>
+    <td>2023/4/30</td>
+    <td>#</td>
+    <td>2023/6/15</td>
+    <td>2023/6/30</td>
+    <td>#</td>
+    <td>2023/8/21</td>
     <td>15</td>
-    <td>联邦音频大模型</td>
-    <td>智能系统学报</td>
-    <td>待投</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>liangziqi</td>
-    <td>icassp</td>
-    <td>待投</td>
+    <td>EMNLP</td>
+    <td>B</td>
+    <td>2023/6/16</td>
+    <td>2023/6/23</td>
+    <td>2023/8/22</td>
+    <td>2023/10/6</td>
+    <td>2023/10/20</td>
+    <td>#</td>
+    <td>2023/12/6</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>17</td>
-    <td>shihaoxiang</td>
-    <td>icassp</td>
-    <td>待投</td>
+    <td>IJCNN</td>
+    <td>C</td>
+    <td>#</td>
+    <td>2023/2/7</td>
+    <td>#</td>
+    <td>2023/4/7</td>
+    <td>2023/4/21</td>
+    <td>2023/4/21</td>
+    <td>2023/6/18</td>
+    <td>6</td>
   </tr>
   <tr>
-    <td>18</td>
-    <td>lipengcheng</td>
-    <td>icassp</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>qizipeng</td>
-    <td>icassp</td>
-    <td>待投</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>dengyimin</td>
     <td>MM</td>
-    <td>acl拒稿 在投</td>
+    <td>A</td>
+    <td>2023/4/23</td>
+    <td>2023/5/4</td>
+    <td>2023/7/5</td>
+    <td>2023/7/20</td>
+    <td>2023/9/11</td>
+    <td>#</td>
+    <td>2023/7/31</td>
+    <td>8</td>
   </tr>
   <tr>
-    <td>21</td>
-    <td>dengyimin</td>
-    <td>MM</td>
-    <td>ijcai拒稿 在投</td>
+    <td>ASRU/SLT</td>
+    <td>#</td>
+    <td>2023/7/3</td>
+    <td>2023/7/10</td>
+    <td>#</td>
+    <td>2023/9/18</td>
+    <td>2023/9/30</td>
+    <td>2023/10/6</td>
+    <td>2023/12/16</td>
+    <td>6</td>
   </tr>
   <tr>
-    <td>22</td>
-    <td>luokaiyi</td>
-    <td>MM asia</td>
-    <td>待投</td>
+    <td>MMasia</td>
+    <td>C</td>
+    <td>#</td>
+    <td>2023/7/22</td>
+    <td>#</td>
+    <td>2023/9/23</td>
+    <td>#</td>
+    <td>#</td>
+    <td>2023/12/6</td>
+    <td>4</td>
   </tr>
   <tr>
-    <td>23</td>
-    <td>dengyimin</td>
-    <td>SPL</td>
-    <td>interspeech拒稿 在投</td>
+    <td>ICONIP</td>
+    <td>C</td>
+    <td>#</td>
+    <td>2023/6/10</td>
+    <td>#</td>
+    <td>2023/7/31</td>
+    <td>2023/8/20</td>
+    <td>#</td>
+    <td>2023/11/20</td>
+    <td>12</td>
   </tr>
   <tr>
-    <td>24</td>
-    <td>shiyichen</td>
-    <td>SPL</td>
-    <td>待投</td>
+    <td>Apweb</td>
+    <td>C</td>
+    <td>2023/6/3</td>
+    <td>2023/6/10</td>
+    <td>#</td>
+    <td>2023/8/1</td>
+    <td>2023/8/15</td>
+    <td>#</td>
+    <td>2023/10/6</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>AAAI</td>
+    <td>A</td>
+    <td>2023/8/8</td>
+    <td>2023/8/15</td>
+    <td></td>
+    <td>2023/9/27</td>
+    <td>2023/12/19</td>
+    <td>#</td>
+    <td>2024/2/20</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>interspeech</td>
+    <td>C</td>
+    <td>2023/3/1</td>
+    <td>2023/3/8</td>
+    <td>2023/5/2</td>
+    <td>2023/5/17</td>
+    <td>2023/6/1</td>
+    <td>2023/6/12</td>
+    <td>2023/8/20</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>ICASSP</td>
+    <td>B</td>
+    <td>#</td>
+    <td>2023/9/6</td>
+    <td>2023/11/15</td>
+    <td>2023/12/13</td>
+    <td>2023/9/6</td>
+    <td>2024/1/11</td>
+    <td>2024/4/14</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>DSAA</td>
+    <td>C</td>
+    <td>#</td>
+    <td>2023/5/22</td>
+    <td>#</td>
+    <td>2023/7/24</td>
+    <td>2023/8/21</td>
+    <td>#</td>
+    <td>2023/10/9</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>WISE</td>
+    <td>C</td>
+    <td>2023/6/16</td>
+    <td>2023/6/20</td>
+    <td>#</td>
+    <td>2023/8/5</td>
+    <td>2023/8/20</td>
+    <td>#</td>
+    <td>2023/10/25</td>
+    <td>15</td>
   </tr>
 </table>
+
+
+
+
+
+
 
 </div>
