@@ -30,6 +30,8 @@ main:
   - name: Contact
     url: contact
     weight: 70
-
+  - name: Conferences
+    url: https://www.conferenceeye.cn/
+    weight: 80
 
 
