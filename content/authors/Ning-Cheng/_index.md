@@ -19,7 +19,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Ning-Cheng/145292435
-
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57218449694
     
 email: ""
 superuser: false
