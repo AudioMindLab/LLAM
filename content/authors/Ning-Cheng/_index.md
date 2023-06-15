@@ -10,12 +10,17 @@ interests:
   - Voice Conversion
   - Artificial Intelligence
 social:
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/86/797-1.html
   - icon: ieee
     icon_pack: ai
     link: https://ieeexplore.ieee.org/author/37088484315
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Ning-Cheng/145292435
+
+    
 email: ""
 superuser: false
 user_groups:
