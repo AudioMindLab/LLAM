@@ -19,3 +19,5 @@ design:
   css_style:
   css_class:
 ---
+
+{{< gallery album="people" resize_options="250x250" >}}
