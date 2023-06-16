@@ -27,4 +27,4 @@ design:
   show_role: true
   show_social: true
 ---
-{{< gallery album="<people>" >}}
+{{< gallery album="people" >}}
