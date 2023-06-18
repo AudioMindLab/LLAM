@@ -24,7 +24,11 @@ publication_types: ['1']
 publication: In *24th Annual Conference of the International Speech Communication Association*
 publication_short: In *interspeech2023* (CCF-C)
 
-abstract: The production and annotation of music datasets requires very specialized background knowledge, which is difficult for most people to complete. Therefore, the number of annotated music samples is at a premium for Music Information Retrieval (MIR) tasks. Recently, segment-based methods for emotion-related tasks have been proposed, which train backbone networks on shorter segments instead of entire audio clips, thereby naturally augmenting training samples without requiring additional resources. However, when training at the segment level, segment labels are the major problem. The most commonly used method is that segment inherits the label of the clip containing it, but as we all know, music emotion is not constant during the whole clip. Doing so will introduce label noise and make the training overfit easily. To handle the noisy label issue, we propose a semi-supervised self-learning method and achieve better results than previous methods.
+abstract: 
+
+TBD
+
+# The production and annotation of music datasets requires very specialized background knowledge, which is difficult for most people to complete. Therefore, the number of annotated music samples is at a premium for Music Information Retrieval (MIR) tasks. Recently, segment-based methods for emotion-related tasks have been proposed, which train backbone networks on shorter segments instead of entire audio clips, thereby naturally augmenting training samples without requiring additional resources. However, when training at the segment level, segment labels are the major problem. The most commonly used method is that segment inherits the label of the clip containing it, but as we all know, music emotion is not constant during the whole clip. Doing so will introduce label noise and make the training overfit easily. To handle the noisy label issue, we propose a semi-supervised self-learning method and achieve better results than previous methods.
 
 
 
