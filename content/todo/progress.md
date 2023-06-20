@@ -59,8 +59,8 @@ design:
   <tr>
     <td>4</td>
     <td>dengyimin</td>
-    <td>ADMA</td>
-    <td>ADMA拒稿 待投</td>
+    <td>PRCV</td>
+    <td>ADMA拒稿 在投</td>
   </tr>
   <tr>
     <td>5</td>
