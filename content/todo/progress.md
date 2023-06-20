@@ -61,25 +61,7 @@ design:
     <td>4</td>
     <td>dengyimin</td>
     <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>zhangchuanyao -&gt; sunyifu</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>zhaojinfeng -&gt; tanghaobin</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>zhaojiahao -&gt; zhukexin</td>
-    <td>ADMA</td>
-    <td>ijcnn拒稿 在投</td>
+    <td>ADMA拒稿 待投</td>
   </tr>
   <tr>
     <td>8</td>
