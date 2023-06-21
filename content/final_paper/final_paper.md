@@ -21,9 +21,9 @@ design:
 }
 ```
 
-```
-\\ \href{https://largeaudiomodel.com}{\color{black} https://largeaudiomodel.com}~~
-```
+
+~~\\ \href{https://largeaudiomodel.com}{\color{black} https://largeaudiomodel.com}~~
+
 
 # 增加致谢基金号
 
@@ -42,6 +42,9 @@ Supported by the Key Research and Development Program of Guangdong Province (gra
 
 修改稿查一下重，http://ithenticate.ithenticate.top/it/getreport
 
+# 增加2-5条自引
+
+[bib](https://largeaudiomodel.com/static/0-citation-self.bib)
 # Demo 样例
 
 demo 仓库：https://github.com/TTS-SCI-zhangxulong/FDMN-TTS 
