@@ -44,7 +44,7 @@ Supported by the Key Research and Development Program of Guangdong Province (gra
 
 # 增加2-5条自引
 
-[bib](https://largeaudiomodel.com/static/0-citation-self.bib)
+[bib](https://largeaudiomodel.com/0-citation-self.bib)
 # Demo 样例
 
 demo 仓库：https://github.com/TTS-SCI-zhangxulong/FDMN-TTS 
