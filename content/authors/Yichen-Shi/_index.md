@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former Researchers & Interns
+  - Former
 ---
 
 The main research direction is artificial intelligence, music genre classification, etc.
