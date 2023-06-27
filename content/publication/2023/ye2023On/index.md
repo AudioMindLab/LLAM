@@ -33,9 +33,9 @@ abstract: Deep neural retrieval models have amply demonstrated their power but e
 tags:
   - Other
 featured: true
-# links:
-# - name: "arXiv"
-#   url: 'https://arxiv.org/abs/2304.11547'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2303.08606'
 url_pdf: ''
 url_code: ''
 url_poster: ''
