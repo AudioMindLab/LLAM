@@ -9,7 +9,7 @@ authors:
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
-date: '2023-05-18T00:00:00Z' # TODO
+date: '2023-06-28T00:00:00Z' # TODO
 doi: ''
 
 
@@ -31,9 +31,9 @@ abstract: Federated Learning (FL) has been widely con- cerned for it enables dec
 tags:
   - Other
 featured: true
-# links:
-# - name: "arXiv"
-#   url: 'https://arxiv.org/abs/2304.11547'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2306.15347'
 url_pdf: ''
 url_code: ''
 url_poster: ''

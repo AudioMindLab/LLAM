@@ -12,7 +12,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2023-05-17T00:00:00Z' # TODO
+date: '2023-06-27T00:00:00Z' # TODO
 doi: ''
 
 
@@ -33,9 +33,9 @@ abstract:   This paper proposes Shoggoth, an efficient edge- cloud collaborative
 tags:
   - Other
 featured: true
-# links:
-# - name: "arXiv"
-#   url: 'https://arxiv.org/abs/2304.11547'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2306.15333'
 url_pdf: ''
 url_code: ''
 url_poster: ''
