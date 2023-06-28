@@ -13,6 +13,7 @@ design:
 ---
 
 * As a reviewer, how about this paper?
+* Can you summarize this paper for me?
 * Can you give me some specific suggestions on how to improve the paper?
 * Can you also comment on the writing style and clarity of the paper?
 * Can you give me some examples of these errors?
