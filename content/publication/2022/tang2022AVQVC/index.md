@@ -27,6 +27,8 @@ tags:
   - Voice Conversion
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2202.10020'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9746369'
 url_pdf: ''

@@ -30,6 +30,8 @@ tags:
   - Speech
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2206.13689'
 - name: "ISCA"
   url: 'https://www.isca-speech.org/archive/interspeech_2022/luo22_interspeech.html'
 url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/luo22_interspeech.pdf'

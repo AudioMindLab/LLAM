@@ -28,6 +28,8 @@ tags:
   - Other
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2210.14724'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/10076631'
 url_pdf: ''

@@ -17,6 +17,7 @@ design:
 * Can you give me some specific suggestions on how to improve the paper?
 * Can you also comment on the writing style and clarity of the paper?
 * Can you give me some examples of these errors?
+* Please list any typographical or grammatical errors, as well as any stylistic issues that should be improved. In addition, if there is anything in the paper that you found difficult to follow, please suggest how it could be better organized, motivated, or explained.
 * Do you have any other comments or questions about the paper?
 * Can you rate my paper on a scale of 1 to 5?
 * How can I improve my novelty score?

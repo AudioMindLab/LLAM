@@ -26,6 +26,8 @@ tags:
   - MIR
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2205.11821'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9892793'
 url_pdf: ''

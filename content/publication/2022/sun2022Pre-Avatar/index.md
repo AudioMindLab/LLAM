@@ -34,6 +34,8 @@ tags:
 featured: true
 
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2210.06877'
 - name: "IEEE"
   url: "https://ieeexplore.ieee.org/document/10097978"
 url_pdf: ''

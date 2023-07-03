@@ -29,6 +29,8 @@ tags:
   - Voice Conversion
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2209.10088'
 - name: "Springer"
   url: 'https://link.springer.com/chapter/10.1007/978-3-031-30108-7_30'
 url_pdf: ''

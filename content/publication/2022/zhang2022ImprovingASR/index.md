@@ -29,6 +29,8 @@ tags:
   - ASR
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2210.13805'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/10076769'
 url_pdf: ''

@@ -28,6 +28,8 @@ tags:
   - TTS
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2210.13803'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/10076635'
 url_pdf: ''
