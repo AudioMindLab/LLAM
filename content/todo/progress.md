@@ -67,6 +67,12 @@ design:
       <td>PRCV</td>
       <td>ADMA拒稿 在投</td>
     </tr>
+      <tr>
+      <td>3</td>
+      <td>liangziqi</td>
+      <td>PRCV</td>
+      <td>在投</td>
+    </tr>
     <tr>
       <td>9</td>
       <td>luokaiyi</td>
@@ -102,6 +108,12 @@ design:
       <td>sunyifu</td>
       <td>EURASIP</td>
       <td>在投</td>
+    </tr>
+     <tr>
+      <td>16</td>
+      <td>luokaiyi</td>
+      <td>MM asia</td>
+      <td>待投</td>
     </tr>
     <tr>
       <td>7</td>
@@ -151,12 +163,7 @@ design:
       <td>icassp</td>
       <td>待投</td>
     </tr>
-    <tr>
-      <td>16</td>
-      <td>luokaiyi</td>
-      <td>MM asia</td>
-      <td>待投</td>
-    </tr>
+   
   </table>
 
 
