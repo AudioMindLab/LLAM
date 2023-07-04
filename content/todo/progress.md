@@ -115,12 +115,7 @@ design:
       <td>MM asia</td>
       <td>待投</td>
     </tr>
-    <tr>
-      <td>7</td>
-      <td>dengyimin</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
+ 
     <tr>
       <td>4</td>
       <td>sunaolan</td>
@@ -142,6 +137,12 @@ design:
     <tr>
       <td>8</td>
       <td>tanghaobin</td>
+      <td>icassp</td>
+      <td>待投</td>
+    </tr>
+       <tr>
+      <td>7</td>
+      <td>dengyimin</td>
       <td>icassp</td>
       <td>待投</td>
     </tr>
