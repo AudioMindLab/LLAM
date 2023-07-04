@@ -32,6 +32,8 @@ tags:
   - Speech
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2205.14329'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9892207'
 url_pdf: ''

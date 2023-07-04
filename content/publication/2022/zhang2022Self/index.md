@@ -27,6 +27,8 @@ tags:
   - Other
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2202.12160'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9746341'
 url_pdf: ''

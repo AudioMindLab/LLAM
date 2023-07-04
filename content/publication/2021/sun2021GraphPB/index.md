@@ -32,6 +32,8 @@ tags:
   - TTS
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2012.02626'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9383530'
 url_pdf: ''

@@ -30,6 +30,8 @@ tags:
   -  Speech
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2011.11315'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9383622'
 url_pdf: ''

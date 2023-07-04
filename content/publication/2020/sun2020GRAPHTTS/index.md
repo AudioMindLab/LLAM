@@ -32,6 +32,8 @@ tags:
   - TTS
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2003.01924'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9053355'
 url_pdf: ''

@@ -31,6 +31,8 @@ tags:
   - Talking Face
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2107.04806'
 - name: "ISCA"
   url: 'https://www.isca-speech.org/archive/interspeech_2021/si21b_interspeech.html'
 url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2021/si21b_interspeech.pdf'

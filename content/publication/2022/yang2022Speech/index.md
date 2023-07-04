@@ -35,6 +35,8 @@ tags:
   - Voice Conversion
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2208.08757'
 - name: "ISCA"
   url: 'https://www.isca-speech.org/archive/interspeech_2022/yang22f_interspeech.html'
 - name: "DEMO"

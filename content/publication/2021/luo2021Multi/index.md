@@ -30,6 +30,8 @@ tags:
   - ASR
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2011.13090'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9383532'
 url_pdf: ''

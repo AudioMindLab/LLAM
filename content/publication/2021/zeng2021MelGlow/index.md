@@ -30,6 +30,8 @@ tags:
   - TTS
 featured: true
 links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2012.01684'
 - name: "IEEE"
   url: 'https://ieeexplore.ieee.org/document/9383603'
 url_pdf: ''
