@@ -20,5 +20,10 @@
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
       {{- end -}}
     {{- end -}}
+    {{- if isset $.Params "corresponding_author" -}}
+      {{- with (index $.Params.corresponding_author $index) -}}
+        <i class="author-notes fas fa-envelope" data-toggle="tooltip" title="{{.}}"></i>
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
