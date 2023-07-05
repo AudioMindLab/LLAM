@@ -2,9 +2,10 @@
 title: 'An Effective Approach for Speech Enhancement by Multi-band MMSE Spectral Subtraction'
 authors:
   - Ning Cheng
-  - WenJu Liu
+  - Wenju Liu
   - Bo Xu
-
+corresponding_author:
+    - 'Corresponding author'
 
 date: '2007-08-30T00:00:00Z' # TODO
 doi: ''

@@ -2,9 +2,10 @@
 title: 'An Improved A Priori MMSE Spectral Subtraction Method for Speech Enhancement'
 authors:
   - Ning Cheng
-  - WenJu Liu
+  - Wenju Liu
   - Bo Xu
-
+corresponding_author:
+    - 'Corresponding author'
 date: '2007-09-23T00:00:00Z' # TODO
 doi: ''
 

@@ -4,6 +4,8 @@ authors:
   - Ning Cheng
   - Wenju Liu
   - Lan Wang
+corresponding_author:
+    - 'Corresponding author'
 date: '2010-09-26T00:00:00Z' # TODO
 doi: ''
 

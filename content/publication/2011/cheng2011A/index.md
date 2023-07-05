@@ -4,7 +4,8 @@ authors:
   - Ning Cheng
   - XunYing Liu
   - Lan Wang 
-
+corresponding_author:
+    - 'Corresponding author'
 
 date: '2011-12-03T00:00:00Z' # TODO
 doi: ''

@@ -5,7 +5,8 @@ authors:
   - Wenju Liu
   - Peng Li
   - Bo Xu
-
+corresponding_author:
+    - 'Corresponding author'
 
 date: '2008-10-26T00:00:00Z' # TODO
 doi: ''
