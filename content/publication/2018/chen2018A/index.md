@@ -7,6 +7,13 @@ authors:
   - Juanjuan Li
   - Yiliang Jiang
   - Wei Li
+corresponding_author:
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - 'Corresponding author'
 date: '2018-11-24T00:00:00Z' # TODO
 doi: ''
 

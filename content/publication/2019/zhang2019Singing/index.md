@@ -7,6 +7,13 @@ authors:
   - Shizhe Chen
   - Yongwei Gao
   - Wei Li 
+corresponding_author:
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - 'Corresponding author'
 date: '2019-12-22T00:00:00Z' # TODO
 doi: ''
 
