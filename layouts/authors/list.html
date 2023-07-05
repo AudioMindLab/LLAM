@@ -27,7 +27,7 @@
       <ol reversed>
         {{ range $query }}
         <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }}) ({{.Publication_short}})
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }}) ({{.Params.publication_short}})
         </li>
         {{ end }}
       </ol>
