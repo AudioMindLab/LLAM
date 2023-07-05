@@ -53,4 +53,4 @@ slides:
 projects:
 ---
 
-![reviewer](ReviewerCertXulongZhang.pdf)
+![reviewer](ReviewerCertXulongZhang.png)
