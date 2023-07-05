@@ -10,6 +10,10 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+corresponding_author:
+    - ''
+    - ''
+    - 'Corresponding author'
 date: '2023-05-19T00:00:00Z' # TODO
 doi: ''
 

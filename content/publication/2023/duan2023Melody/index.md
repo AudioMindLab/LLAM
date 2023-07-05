@@ -7,6 +7,9 @@ authors:
   - Suhua Tang
   - Wei Li
   - Keizo Oyama
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 date: '2023-02-27T00:00:00Z'
 doi: ''
 

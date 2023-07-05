@@ -5,6 +5,9 @@ authors:
   - Jianzong Wang
   - Junqing Peng
   - Jing Xiao 
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'

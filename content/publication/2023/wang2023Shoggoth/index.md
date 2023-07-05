@@ -12,6 +12,12 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+corresponding_author:
+    - ''
+    - ''
+    - ''
+    - ''
+    - 'Corresponding author'
 date: '2023-06-27T00:00:00Z' # TODO
 doi: ''
 
