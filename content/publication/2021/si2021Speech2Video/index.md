@@ -8,6 +8,9 @@ authors:
   - Wenqi Wei
   - Xinghua Zhu
   - Jing Xiao
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 date: '2021-08-30T00:00:00Z' # TODO
 doi: ''
 

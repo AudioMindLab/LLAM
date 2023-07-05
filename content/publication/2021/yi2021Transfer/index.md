@@ -6,7 +6,9 @@ authors:
   - Ning Cheng
   - Shiyu Zhou
   - Bo Xu
-
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 date: '2021-07-18T00:00:00Z' # TODO
 doi: ''
 

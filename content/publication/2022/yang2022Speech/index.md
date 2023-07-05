@@ -12,7 +12,11 @@ authors:
   - Xintao Zhao
   - Jie Wang
   - Helen Meng
-
+corresponding_author:
+    - ''
+    - ''
+    - ''
+    - 'Corresponding author'
 
 date: '2022-09-18T00:00:00Z' # TODO
 doi: ''

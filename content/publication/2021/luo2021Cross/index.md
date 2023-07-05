@@ -16,7 +16,9 @@ authors:
   - Oleksii Kuchaiev
   - Vitaly Lavrukhin
   - Jason Li
-
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 
 date: '2021-07-05T00:00:00Z' # TODO
 doi: ''

@@ -7,7 +7,9 @@ authors:
   - Guilin Jiang
   - Jing Xiao
 
-
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 
 date: '2021-01-19T00:00:00Z' # TODO
 doi: ''
