@@ -7,7 +7,9 @@ authors:
   - Tian Xia
   - Jing Xiao
 
-
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 
 date: '2020-05-04T00:00:00Z' # TODO
 doi: ''

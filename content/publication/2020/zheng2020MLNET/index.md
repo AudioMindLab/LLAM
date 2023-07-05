@@ -6,7 +6,9 @@ authors:
   - Ning Cheng
   - Jian Luo
   - Jing Xiao
-
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 
 
 date: '2020-10-25T00:00:00Z' # TODO
