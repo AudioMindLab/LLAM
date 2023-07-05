@@ -10,6 +10,8 @@ corresponding_author:
     - ''
     - ''
     - 'Corresponding author'
+    - ''
+    - 'Corresponding author'
 date: '2023-04-17T00:00:00Z' # TODO
 doi: ''
 

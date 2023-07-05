@@ -7,6 +7,9 @@ authors:
   - Edward Xiao
   - Xulong Zhang
   - Jing Xiao
+corresponding_author:
+    - ''
+    - 'Corresponding author'
 date: '2022-09-18T00:00:00Z'
 doi: ''
 
