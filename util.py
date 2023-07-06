@@ -14,6 +14,7 @@ def filter_dubplicate():
                             all_lines=f_p.readlines()
                             for line in all_lines:
                                 if 'title' in line:
+                                    line=line.replace(':',"").replace('-',"")
                                     exist_title+=line.lower()
     count=0
     for root,dirs,names in os.walk(jzwang_dir):
@@ -24,7 +25,7 @@ def filter_dubplicate():
                             all_lines=f_p.readlines()
                             for line in all_lines:
                                 if 'title' in line:
-                                     the_title=line.split('"')[1].lower()
+                                     the_title=line.split('"')[1].lower().replace(':',"").replace('-',"")
                                      if the_title in exist_title:
                                             count+=1
                                             print("%02d   %s"%(count,the_title))
