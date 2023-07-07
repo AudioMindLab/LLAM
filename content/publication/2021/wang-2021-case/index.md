@@ -9,7 +9,9 @@ featured: false
 publication: "*22nd International Conference on Web Information Systems Engineering*"
 
 corresponding_author:
+    - ''
     - 'Corresponding author'
+
 publication_short: In *WISE2021* (CCF-C)
 abstract: ''
 tags:
