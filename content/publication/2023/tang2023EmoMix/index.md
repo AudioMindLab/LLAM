@@ -25,7 +25,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *24th Annual Conference of the International Speech Communication Association*
-publication_short: In *interspeech2023* (CCF-C)
+publication_short: In *INTERSPEECH2023* (CCF-C)
 
 abstract: There has been significant progress in emotional Text-To-Speech (TTS) synthesis technology in recent years. However, existing methods primarily focus on the synthesis of a limited number of emotion types and have achieved unsatisfactory performance in intensity control. To address these limitations, we propose EmoMix, which can generate emotional speech with specified intensity or a mixture of emotions. Specifically, EmoMix is a controllable emotional TTS model based on a diffusion probabilistic model and a pre-trained speech emotion recognition (SER) model used to extract emotion embedding. Mixed emotion synthesis is achieved by combining the noises predicted by diffusion model conditioned on different emotions during only one sampling process at the run-time. We further apply the Neutral and specific primary emotion mixed in varying degrees to control intensity. Experimental results validate the effectiveness of EmoMix for synthesizing mixed emotion and intensity control.
 

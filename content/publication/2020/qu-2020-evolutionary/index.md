@@ -13,7 +13,7 @@ publication: "*21st Annual Conference of the International Speech Communication 
 corresponding_author:
     - ''
     - 'Corresponding author'
-publication_short: In *Interspeech2020* (CCF-C)
+publication_short: In *INTERSPEECH2020* (CCF-C)
 abstract: ''
 tags:
   - Speech

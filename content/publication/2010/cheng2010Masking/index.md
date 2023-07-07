@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *11th Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2010*
+publication_short: In *INTERSPEECH2010* (CCF-C)
 
 abstract: This paper presents a novel post-filter for noise reduction. A subspace based noise estimation method is developed with the use of multiple statistical distributions to model the speech and noise. The signal-plus-noise subspace dimension is determined by maximizing the target speech presence probability in noisy frames, so as to estimate the noise power spectrum for post-filter design. Then, masking property is incorporated in the post-filter technique for residual noise shaping. Experimental results show that the proposed scheme outperforms the baseline systems in terms of various quality measurements of the enhanced speech.
 

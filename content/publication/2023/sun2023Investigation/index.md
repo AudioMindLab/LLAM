@@ -26,7 +26,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *24th Annual Conference of the International Speech Communication Association*
-publication_short: In *interspeech2023* (CCF-C)
+publication_short: In *INTERSPEECH2023* (CCF-C)
 
 abstract: TBD
 

@@ -22,7 +22,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *23rd Annual Conference of the International Speech Communication Association*
-publication_short: In *Interspeech2022* (CCF-C)
+publication_short: In *INTERSPEECH2022* (CCF-C)
 
 abstract: Time-domain Transformer neural networks have proven their superiority in speech separation tasks. However, these models usually have a large number of network parameters, thus often encountering the problem of GPU memory explosion. In this paper, we proposed Tiny-Sepformer, a tiny version of Transformer network for speech separation. We presented two techniques to reduce the model parameters and memory consumption{:} (1) Convolution-Attention (CA) block, spliting the vanilla Transformer to two paths, multi-head attention and 1D depthwise separable convolution, (2) parameter sharing, sharing the layer parameters within the CA block. In our experiments, Tiny-Sepformer could greatly reduce the model size, and achieves comparable separation performance with vanilla Sepformer on WSJ0-2/3Mix datasets.
 

@@ -13,7 +13,7 @@ publication: "*22nd Annual Conference of the International Speech Communication 
 corresponding_author:
     - ''
     - 'Corresponding author'
-publication_short: In *Interspeech2021* (CCF-C)
+publication_short: In *INTERSPEECH2021* (CCF-C)
 abstract: ''
 tags:
   - TTS

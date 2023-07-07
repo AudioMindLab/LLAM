@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *12th Annual Conference of the International Speech Communication Association*
-publication_short: In *INTERSPEECH2011*
+publication_short: In *INTERSPEECH2011* (CCF-C)
 
 abstract: Handling variable ambient noise is a challenging task for automatic speech recognition (ASR) systems. To address this issue, multi-style, noise condition independent (CI) model training using speech data collected in diverse noise environments, or uncertainty decoding techniques can be used. An alternative approach is to explicitly approximate the continuous trajectory of Gaussian component mean and variance parameters against the varying noise level, for example, using variable parameter HMMs (VP-HMM). This paper investigates a more generalized form of variable parameter HMMs (GVP-HMM). In addition to Gaussian component means and variances, it can also provide a more compact trajectory modelling for tied linear transformations. An alternative noise condition dependent (CD) training algorithm is also proposed to handle the bias to training noise condition distribution. Consistent error rate gains were obtained over conventional VP-HMM mean and variance only trajectory modelling on a medium vocabulary Mandarin Chinese in-car navigation command recognition task.
 
