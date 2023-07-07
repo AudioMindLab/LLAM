@@ -1,24 +1,18 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Video-Based Pig Recognition with Feature-Integrated Transfer Learning"
+date: 2018-01-01
+publishDate: 2023-07-06T09:09:45.115610Z
+authors: ["Jianzong Wang", "Aozhi Liu", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*13th Chinese Conference on Biometric Recognition*"
 
 
 
 corresponding_author:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *CCBR2018*
 abstract: ''
 tags:
   - Other

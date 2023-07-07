@@ -1,24 +1,19 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Chinese Punctuation Prediction with Adaptive Attention and Dependency Tree"
+date: 2020-01-01
+publishDate: 2023-07-06T09:09:45.118719Z
+authors: ["Zelong Yan", "Jianzong Wang", "Ning Cheng", "Tianbo Wu", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*5th China Conference on Knowledge Graph and Semantic Computing: Knowledge Graph and Cognitive Intelligence*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *CCKS2020* 
 abstract: ''
 tags:
   - Other

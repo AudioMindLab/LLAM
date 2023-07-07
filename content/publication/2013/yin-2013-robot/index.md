@@ -1,12 +1,12 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Robot: An Efficient Model for Big Data Storage Systems Based on Erasure Coding"
+date: 2013-01-01
+publishDate: 2023-07-06T09:09:45.119817Z
+authors: ["Chao Yin", "Jianzong Wang", "Changsheng Xie", "Jiguang Wan", "Changlin Long", "Wenjuan Bi"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*2013 IEEE International Conference on Big Data*"
 
 
 
@@ -14,11 +14,8 @@ corresponding_author:
     - ''
     - ''
     - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *BigData2013*
 abstract: ''
 tags:
   - Other

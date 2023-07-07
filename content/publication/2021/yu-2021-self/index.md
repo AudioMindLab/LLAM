@@ -1,24 +1,19 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Self-supervised Learning for Semantic Sentence Matching with Dense Transformer Inference Network"
+date: 2021-01-01
+publishDate: 2023-07-06T09:09:45.120158Z
+authors: ["Fengying Yu", "Jianzong Wang", "Dewei Tao", "Ning Cheng", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*5th International Joint Conference on Web and Big Data*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *APWeb-WAIM2021* (CCF-C)
 abstract: ''
 tags:
   - Other

@@ -1,24 +1,20 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Leveraging Causal Inference for Explainable Automatic Program Repair"
+date: 2022-01-01
+publishDate: 2023-07-06T09:09:45.116776Z
+authors: ["Jianzong Wang", "Shijing Si", "Zhitao Zhu", "Xiaoyang Qu", "Zhenhou Hong", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*International Joint Conference on Neural Networks*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+    
+publication_short: In *IJCNN2022* (CCF-C)
 abstract: ''
 tags:
   - Other

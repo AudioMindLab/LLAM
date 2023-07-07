@@ -1,24 +1,18 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Performance of Training Sparse Deep Neural Networks on GPUs"
+date: 2019-01-01
+publishDate: 2023-07-06T09:09:45.115798Z
+authors: ["Jianzong Wang", "Zhangcheng Huang", "Lingwei Kong", "Jing Xiao", "Pengyu Wang", "Lu Zhang", "Chao Li"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*2019 IEEE High Performance Extreme Computing Conference*"
 
 
 
 corresponding_author:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *HPEC2019*
 abstract: ''
 tags:
   - Other

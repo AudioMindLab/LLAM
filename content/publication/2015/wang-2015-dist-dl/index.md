@@ -1,24 +1,19 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "DistDL: A Distributed Deep Learning Service Schema with GPU Accelerating"
+date: 2015-01-01
+publishDate: 2023-07-06T09:09:45.114792Z
+authors: ["Jianzong Wang", "Lianglun Cheng"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*17th Asia-PacificWeb Conference Web Technologies and Applications*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *APWeb2015* (CCF-C)
 abstract: ''
 tags:
   - Other

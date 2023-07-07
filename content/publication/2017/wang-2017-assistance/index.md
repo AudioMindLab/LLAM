@@ -1,12 +1,12 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Assistance of Speech Recognition in Noisy Environment with Sentence Level Lip-Reading"
+date: 2017-01-01
+publishDate: 2023-07-06T09:09:45.115187Z
+authors: ["Jianzong Wang", "Yiwen Wang", "Aozhi Liu", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*12th Chinese Conference on Biometric Recognition*"
 
 
 
@@ -14,11 +14,8 @@ corresponding_author:
     - ''
     - ''
     - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *CCBR2017* 
 abstract: ''
 tags:
   - Other

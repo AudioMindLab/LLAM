@@ -1,5 +1,5 @@
 ---
-title: 'An effective microphone array post-filter in arbitrary environments'
+title: 'An Effective Microphone Array Post-Filter in Arbitrary Environments'
 authors:
   - Ning Cheng
   - Wenju Liu

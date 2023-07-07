@@ -1,24 +1,19 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "qSDS: A QoS-Aware I/O Scheduling Framework towards Software Defined Storage"
+date: 2015-01-01
+publishDate: 2023-07-06T09:09:45.114990Z
+authors: ["Jianzong Wang", "Lianglun Cheng"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*Proceedings of the Eleventh ACM/IEEE Symposium on Architectures for networking and communications systems*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *ANCS2015* (CCF-C)
 abstract: ''
 tags:
   - Other

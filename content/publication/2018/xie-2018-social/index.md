@@ -1,24 +1,18 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
-publication_types: ["1"]
+title: "Social Network Monitoring for Bursty Cascade Detection"
+date: 2018-01-01
+publishDate: 2023-07-06T09:09:45.118127Z
+authors: ["Wei Xie", "Feida Zhu", "Jing Xiao", "Jianzong Wang"]
+publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*ACM Transactions on Knowledge Discovery from Data*"
 
 
 
 corresponding_author:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *TKDD2018* (CCF-B)
 abstract: ''
 tags:
   - Other

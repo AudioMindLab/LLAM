@@ -1,24 +1,18 @@
 ---
-title: "Enhancing Shared RAID Performance Through Online Profiling"
-date: 2012-01-01
-publishDate: 2023-07-06T09:09:45.112657Z
-authors: ["Jiguang Wan", "Jibin Wang", "Yan Liu", "Qing Yang", "Jianzong Wang", "Changsheng Xie"]
+title: "Modeling Without Sharing Privacy: Federated Neural Machine Translation"
+date: 2021-01-01
+publishDate: 2023-07-06T09:09:45.116377Z
+authors: ["Jianzong Wang", "Zhangcheng Huang", "Lingwei Kong", "Denghao Li", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE 28th Symposium on Mass Storage Systems and Technologies*"
+publication: "*22nd International Conference on Web Information Systems Engineering*"
 
 
 
 corresponding_author:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
     - 'Corresponding author'
-  
-publication_short: In *MSST2012* (CCF-B)
+publication_short: In *WISE2021* (CCF-C)
 abstract: ''
 tags:
   - Other
