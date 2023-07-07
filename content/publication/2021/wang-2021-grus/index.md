@@ -12,7 +12,7 @@ publication: "*ACM Transactions on Architecture and Code Optimization*"
 
 corresponding_author:
     - 'Corresponding author'
-publication_short: In *TACO2023* (CCF-B)
+publication_short: In *TACO2021* (CCF-B)
 abstract: ''
 tags:
   - Other
