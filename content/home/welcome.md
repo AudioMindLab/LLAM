@@ -22,4 +22,4 @@ design:
 <br>
 
 The Lab of Large Audio Model (**LLAM**) is committed to exploring and advancing the forefront and future of audio and sound technology, and building large audio models.
-音频大模型实验室，致力于探索和发展音频和声音技术的前沿和未来，构建音频大模型。
+<!-- 音频大模型实验室，致力于探索和发展音频和声音技术的前沿和未来，构建音频大模型。 -->
