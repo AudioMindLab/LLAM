@@ -4,15 +4,13 @@ date: 2020-01-01
 publishDate: 2023-07-06T09:09:45.107597Z
 authors: ["Prasanna Porwal", "Samiksha Pachade", "Manesh Kokare", "Girish Deshmukh", "Jaemin Son", "Woong Bae", "Lihong Liu", "Jianzong Wang", "Xinhui Liu", "Liangxin Gao", "Tianbo Wu", "Jing Xiao", "Fengyan Wang", "Baocai Yin", "Yunzhi Wang", "Gopichandh Danala", "Linsheng He", "Yoon Ho Choi", "Fabrice Mériaudeau"]
 publication_types: ["2"]
-abstract: ""
+abstract: " "
 featured: false
-publication: "*Medical Image Analysis*" (IF=10.9)
-
-
+publication: "*Medical Image Analysis*" 
 
 corresponding_author:
     - 'Corresponding author'
-publication_short: In *MedIA2020* 
+publication_short: In *MedIA2020* (IF=10.9)
 abstract: ''
 tags:
   - Other
