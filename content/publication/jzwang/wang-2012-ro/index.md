@@ -6,6 +6,37 @@ authors: ["Jianzong Wang", "Rui Hua", "Yifeng Zhu", "Jiguang Wan", "Changsheng X
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*12th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, CCGrid 2012, Ottawa, Canada, May 13-16, 2012*"
+publication: "*12th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*"
+
+
+
+corresponding_author:
+    - ''
+    - ''
+publication_short: In *CCGrid2012* (CCF-C)
+abstract: ''
+tags:
+  - Other
+links:
+# - name: "arXiv"
+#   url: 'https://arxiv.org/abs/2304.11547'
+url_pdf: ''
+url_code: ''
+url_poster: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'The architecture of speech representation learning'
+#   focal_point: ''
+#   preview_only: false
+
+
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+
 

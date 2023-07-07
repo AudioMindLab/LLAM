@@ -6,6 +6,35 @@ authors: ["Jianzong Wang", "Shijing Si", "Zhenhou Hong", "Xiaoyang Qu", "Xinghua
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Web Information Systems Engineering - WISE 2021 - 22nd International Conference on Web Information Systems Engineering, WISE 2021, Melbourne, VIC, Australia, October 26-29, 2021, Proceedings, Part II*"
+publication: "*22nd International Conference on Web Information Systems Engineering*"
+
+corresponding_author:
+    - ''
+    - ''
+publication_short: In *WISE 2021* (CCF-C)
+abstract: ''
+tags:
+  - Other
+links:
+# - name: "arXiv"
+#   url: 'https://arxiv.org/abs/2304.11547'
+url_pdf: ''
+url_code: ''
+url_poster: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'The architecture of speech representation learning'
+#   focal_point: ''
+#   preview_only: false
+
+
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+
 

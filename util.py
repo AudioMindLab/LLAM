@@ -31,7 +31,45 @@ def filter_dubplicate():
                                             print("%02d   %s"%(count,the_title))
                                             print(root)
                                             shutil.rmtree(root)
+    insert_str_content='''
 
+corresponding_author:
+    - ''
+    - 'Corresponding author'
+publication_short: In *IJCNN2023* (CCF-C)
+abstract: ''
+tags:
+  - Other
+links:
+# - name: "arXiv"
+#   url: 'https://arxiv.org/abs/2304.11547'
+url_pdf: ''
+url_code: ''
+url_poster: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'The architecture of speech representation learning'
+#   focal_point: ''
+#   preview_only: false
+
+
+---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+
+
+'''
+    for root,dirs,names in os.walk(jzwang_dir):
+        for file_name in names:
+                    file_path=os.path.join(root,file_name)
+                    if 'index.md' in file_path:
+                        with open(file_path,'a') as f_p:
+                             f_p.write(insert_str_content)
 
     return 0
 

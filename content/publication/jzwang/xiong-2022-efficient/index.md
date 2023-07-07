@@ -6,6 +6,37 @@ authors: ["Liyao Xiong", "Zoe Lin Jiang", "Yi Huang", "Jianzong Wang", "Jing Xia
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*4th International Conference on Data Intelligence and Security, ICDIS 2022, Shenzhen, China, August 24-26, 2022*"
+publication: "*4th International Conference on Data Intelligence and Security*"
+
+
+
+corresponding_author:
+    - ''
+    - ''
+publication_short: In *ICDIS2022*
+abstract: ''
+tags:
+  - Other
+links:
+# - name: "arXiv"
+#   url: 'https://arxiv.org/abs/2304.11547'
+url_pdf: ''
+url_code: ''
+url_poster: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'The architecture of speech representation learning'
+#   focal_point: ''
+#   preview_only: false
+
+
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+
 
