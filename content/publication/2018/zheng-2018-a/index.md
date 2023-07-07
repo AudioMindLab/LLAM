@@ -1,19 +1,18 @@
 ---
-title: "On Probability Calibration of Recurrent Text Recognition Network"
-date: 2019-01-01
-publishDate: 2023-07-06T09:09:45.125929Z
-authors: ["Xinghua Zhu", "Jianzong Wang", "Zhenhou Hong", "Junxiong Guo", "Jing Xiao"]
+title: "A Noise-Robust Self-Adaptive Multitarget Speaker Detection System"
+date: 2018-01-01
+publishDate: 2023-07-06T09:09:45.125335Z
+authors: ["Siqi Zheng", "Jianzong Wang", "Jing Xiao", "Wei-Ning Hsu", "James R. Glass"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Neural Information Processing - 26th International Conference*"
+publication: "*24th International Conference on Pattern Recognition*"
 
 
 
 corresponding_author:
-    - ''
     - 'Corresponding author'
-publication_short: In *ICONIP2019* (CCF-C)
+publication_short: In *ICPR2018* (CCF-C)
 abstract: ''
 tags:
   - Other

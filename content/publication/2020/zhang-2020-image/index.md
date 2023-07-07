@@ -1,19 +1,19 @@
 ---
-title: "A Noise-Robust Self-Adaptive Multitarget Speaker Detection System"
-date: 2018-01-01
-publishDate: 2023-07-06T09:09:45.125335Z
-authors: ["Siqi Zheng", "Jianzong Wang", "Jing Xiao", "Wei-Ning Hsu", "James R. Glass"]
+title: "Image Compressed Sensing Using Neural Architecture Search"
+date: 2020-01-01
+publishDate: 2023-07-06T09:09:45.121200Z
+authors: ["Nan Zhang", "Jianzong Wang", "Xiaoyang Qu", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*24th International Conference on Pattern Recognition*"
+publication: "*8th CCF Conference on Big Data*"
 
 
 
 corresponding_author:
     - ''
-    - ''
-publication_short: In *ICPR2018* (CCF-C)
+    - 'Corresponding author'
+publication_short: In *BigData2020*
 abstract: ''
 tags:
   - Other

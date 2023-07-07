@@ -1,20 +1,19 @@
 ---
-title: "Debias the Black-Box: A Fair Ranking Framework via Knowledge Distillation"
-date: 2022-01-01
-publishDate: 2023-07-06T09:09:45.126484Z
-authors: ["Zhitao Zhu", "Shijing Si", "Jianzong Wang", "Yaodong Yang", "Jing Xiao"]
+title: "On Probability Calibration of Recurrent Text Recognition Network"
+date: 2019-01-01
+publishDate: 2023-07-06T09:09:45.125929Z
+authors: ["Xinghua Zhu", "Jianzong Wang", "Zhenhou Hong", "Junxiong Guo", "Jing Xiao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Web Information Systems Engineering - 23rd International Conference*"
+publication: "*26th International Conference on Neural Information Processing*"
 
 
 
 corresponding_author:
     - ''
-    - ''
     - 'Corresponding author'
-publication_short: In *WISE2022* (CCF-C)
+publication_short: In *ICONIP2019* (CCF-C)
 abstract: ''
 tags:
   - Other
