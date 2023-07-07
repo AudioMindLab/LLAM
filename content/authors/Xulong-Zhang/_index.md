@@ -38,8 +38,6 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Ph.D. in computer application technology from *Fudan University*. My research during the doctoral period focused on music artificial intelligence, specifically on singing voice detection and singer identification under the sub-topics of music information retrieval.
-
-Currently, I work as a senior algorithm researcher. My main project involves researching technology and applications related to text-to-speech and AI music.
+I am a Ph.D. in computer application technology from *Fudan University*. My research during the doctoral period focused on music artificial intelligence, specifically on singing voice detection and singer identification under the sub-topics of music information retrieval. Currently, I work as a senior algorithm researcher. My main project involves researching technology and applications related to text-to-speech and AI music.
 
 I have served as an external corporate mentor for the *University of Science and Technology of China* since 2021, where I have jointly supervised seven graduate students. Additionally, starting from 2023, I hold the position of external mentor at *Tsinghua Shenzhen International Graduate School*. I actively participate in professional organizations and scholarly communities, serving as a reviewer for prestigious conferences such as MM and ICASSP. I am also a member of CCF (ID: N7554M) and IEEE (ID: 98053721).
