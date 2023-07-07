@@ -1,5 +1,5 @@
 ---
-title: "Robot: An efficient model for big data storage systems based on erasure coding"
+title: "Robot: An Efficient Model for Big Data Storage Systems Based on Erasure Coding"
 date: 2013-01-01
 publishDate: 2023-07-06T09:09:45.119817Z
 authors: ["Chao Yin", "Jianzong Wang", "Changsheng Xie", "Jiguang Wan", "Changlin Long", "Wenjuan Bi"]

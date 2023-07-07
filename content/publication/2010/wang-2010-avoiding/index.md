@@ -1,5 +1,5 @@
 ---
-title: "Avoiding performance fluctuation in cloud storage"
+title: "Avoiding Performance Fluctuation in Cloud Storage"
 date: 2010-01-01
 publishDate: 2023-07-06T09:09:45.113038Z
 authors: ["Jianzong Wang", "Peter J. Varman", "Changsheng Xie"]

@@ -1,5 +1,5 @@
 ---
-title: "Optimizing storage performance in public cloud platforms"
+title: "Optimizing Storage Performance in Public Cloud Platforms"
 date: 2011-01-01
 publishDate: 2023-07-06T09:09:45.113620Z
 authors: ["Jianzong Wang", "Peter J. Varman", "Changsheng Xie"]
