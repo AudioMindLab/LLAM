@@ -45,15 +45,24 @@ design:
 </script>
 
 <div align=center>
-
-
-
   <table id="myTable">
     <tr>
       <th>ID</th>
       <th>论文</th>
       <th>会议/期刊</th>
       <th>状态</th>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>luokaiyi</td>
+      <td>ICTAI</td>
+      <td>在投</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>sunaolan</td>
+      <td>ICTAI</td>
+      <td>interspeech拒稿 在投</td>
     </tr>
     <tr>
       <td>17</td>
@@ -109,21 +118,5 @@ design:
       <td>EURASIP</td>
       <td>在投</td>
     </tr>
-     <tr>
-      <td>16</td>
-      <td>luokaiyi</td>
-      <td>ICTAI</td>
-      <td>在投</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>sunaolan</td>
-      <td>ICTAI</td>
-      <td>interspeech拒稿 在投</td>
-    </tr>
-    
   </table>
-
-
-
 </div>
