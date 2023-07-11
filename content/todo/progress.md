@@ -52,6 +52,12 @@ design:
       <th>会议/期刊</th>
       <th>状态</th>
     </tr>
+      <tr>
+      <td>15</td>
+      <td>lipengcheng</td>
+      <td>ICTAI</td>
+      <td>在投</td>
+    </tr>
     <tr>
       <td>16</td>
       <td>luokaiyi</td>
