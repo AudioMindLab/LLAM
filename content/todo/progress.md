@@ -100,6 +100,12 @@ design:
       <td>智能系统学报</td>
       <td>在投</td>
     </tr>
+       <tr>
+      <td>6</td>
+      <td>sunyifu</td>
+      <td>EURASIP</td>
+      <td>在投</td>
+    </tr>
     <tr>
       <td>14</td>
       <td>dengyimin</td>
@@ -117,12 +123,6 @@ design:
       <td>jishengpeng</td>
       <td>emnlp</td>
       <td>interspeech拒稿 在投</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>sunyifu</td>
-      <td>EURASIP</td>
-      <td>在投</td>
     </tr>
   </table>
 </div>
