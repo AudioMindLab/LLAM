@@ -58,19 +58,19 @@ design:
     <tr>
       <td>17</td>
       <td>dengyimin</td>
-      <td>SPL</td>
+      <td>SPL/ICTAI</td>
       <td>interspeech拒稿 在投</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>dengyimin</td>
-      <td>PRCV</td>
+      <td>dengyimin,liangziqi</td>
+      <td>ICTAI</td>
       <td>ADMA拒稿 在投</td>
     </tr>
       <tr>
       <td>3</td>
       <td>liangziqi</td>
-      <td>PRCV</td>
+      <td>ICTAI</td>
       <td>在投</td>
     </tr>
     <tr>
@@ -112,58 +112,16 @@ design:
      <tr>
       <td>16</td>
       <td>luokaiyi</td>
-      <td>MM asia</td>
-      <td>待投</td>
+      <td>ICTAI</td>
+      <td>在投</td>
     </tr>
     <tr>
       <td>4</td>
       <td>sunaolan</td>
-      <td>asru</td>
-      <td>interspeech拒稿 待投</td>
+      <td>ICTAI</td>
+      <td>interspeech拒稿 在投</td>
     </tr>
-    <tr>
-      <td>1</td>
-      <td>liangziqi</td>
-      <td>aaai</td>
-      <td>待投</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>zhangbingyuan</td>
-      <td>aaai</td>
-      <td>待投</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>tanghaobin</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
-       <tr>
-      <td>7</td>
-      <td>dengyimin</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>liangziqi</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>shihaoxiang</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>lipengcheng</td>
-      <td>icassp</td>
-      <td>待投</td>
-    </tr>
-   
+    
   </table>
 
 
