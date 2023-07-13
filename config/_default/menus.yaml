@@ -34,7 +34,15 @@ main:
     url: contact
     weight: 70
   - name: Conferences
-    url: https://www.conferenceeye.cn/
+    url: ''
     weight: 80
+  - name: CCF2022
+    url: conference
+    weight: 1
+    parent: Conferences
+  - name: 会议之眼
+    url: https://www.conferenceeye.cn/
+    weight: 2
+    parent: Conferences
 
 
